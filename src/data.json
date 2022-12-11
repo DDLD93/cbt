@@ -1,0 +1,1063 @@
+{
+    "Use Of computers and digital mobile devices" : [
+        {
+            "name":"SS1(Basic-class)",
+            "payload":[
+                {
+                    "q":"Which of these devices is not a computer?",
+                    "a":"A desktop",
+                    "b":"A laptop",
+                    "c":"A tablet",
+                    "d":"A monitor"
+                },
+                {
+                    "q":"Which of the following parts of a computer is considered an input device?",
+                    "a":"Speakers",
+                    "b":"Screen",
+                    "c":"Keyboard",
+                    "d":"Motherboard"
+                },
+                {
+                    "q":"Computers are used in which of the following?",
+                    "a":"Automobiles",
+                    "b":"Airplanes",
+                    "c":"Street lights",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"Computers are used by which of the following professions?",
+                    "a":"Business",
+                    "b":"Art",
+                    "c":"Education",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"A keyboard is an example of a ______ device.",
+                    "a":"Input",
+                    "b":"Output",
+                    "c":"Storage",
+                    "d":"Memory"
+                },
+                {
+                    "q":"Logging off your computer will close any open programs?",
+                    "a":"True",
+                    "b":"False",
+                    "c":"Not True",
+                    "d":"Nono of the above"
+                },
+                {
+                    "q":"Garba buys a new printer. She wants to connect it to her home computer. Which of the following parts of the computer can she use to connect the printer to the computer?",
+                    "a":"Graphics card",
+                    "b":"Modem",
+                    "c":"FireWire",
+                    "d":"Universal serial bus (USB)"
+                },
+                {
+                    "q":"Musa creates a science project on his school computer. The project includes some documents and two graphics. He wants to work on these files on his home computer. Musa wants to use a storage device to save the project files and take them home. Which of the following devices will he use to save the files?",
+                    "a":"Monitor",
+                    "b":"Compact disc (CD)",
+                    "c":"Printer",
+                    "d":"Speaker"
+                },
+                {
+                    "q":"Anas uses his computer to create his monthly household budget. Which part of his computer will perform the calculations for his budget?",
+                    "a":"Monitor",
+                    "b":"Digital versatile disc (DVD)",
+                    "c":"Central processing unit (CPU)",
+                    "d":"Hard disk"
+                },
+                {
+                    "q":"The computers in your office are connected to a network. Which part of the computer is used to connect the computer to the network?",
+                    "a":"Monitor",
+                    "b":"Network card",
+                    "c":"Headphone",
+                    "d":"Memory"
+                },
+                {
+                    "q":"You want to use your computer to create a document. When you turn on the computer which of the following software will start first?",
+                    "a":"Operating system",
+                    "b":"Word processor",
+                    "c":"Calculator",
+                    "d":"Media player"
+                },
+               
+               
+                {
+                    "q":"You create a business report on your office computer. You want to take a break for five minutes. Before you leave your computer, what will you do to ensure that your recent changes are not lost?",
+                    "a":"Shut down the computer.",
+                    "b":"Turn off the monitor.",
+                    "c":"Save the report.",
+                    "d":"Print the report."
+                },
+                {
+                    "q":"Adams buys a new computer. He wants to know which group of keys on the keyboard he can use to move the insertion point up, down, right, and left in a document. Which of the following groups of keys will Adams use to move the insertion point?",
+                    "a":"Navigation",
+                    "b":"Function",
+                    "c":"ENTER or RETURN",
+                    "d":"Alphanumeric"
+                },
+                {
+                    "q":"Isah creates a document by using a word-processing program. He wants to type text in a new line in the document. Which of the following groups of keys will Isah use to create a new line?",
+                    "a":"ENTER or RETURN",
+                    "b":"Function",
+                    "c":"Alphanumeric",
+                    "d":"Command"
+                },
+                {
+                    "q":"You type an e-mail message. You want to erase some redundant text from the message before you send it to your manager. You select the text that you want to erase. Which of the following keys on the keyboard can you use to remove the unwanted text that you selected?",
+                    "a":"PAUSE",
+                    "b":"SHIFT",
+                    "c":"BACKSPACE",
+                    "d":"ALT CTRL"
+                },
+                {
+                    "q":"You type a job application by using a word-processing program. Which of the following groups of keys on the keyboard will you use to add punctuation marks in the application?",
+                    "a":"Special",
+                    "b":"Command",
+                    "c":"Navigation",
+                    "d":"Function"
+                },
+                {
+                    "q":"Merry wants to write a letter to her friend by using a word-processing program. Which of the following groups of keys will she use to type the name of her friend in the letter?",
+                    "a":"Alphanumeric",
+                    "b":"Numeric",
+                    "c":"Function",
+                    "d":"Command"
+                },
+                {
+                    "q":"You create a graphic in Microsoft Paint, and you want to change parts of the graphic. Which of the following input devices will you use to draw lines and other shapes in Paint?",
+                    "a":"Keyboard",
+                    "b":"Web cam",
+                    "c":"Microphone",
+                    "d":"Mouse"
+                },
+                {
+                    "q":"You buy your favourite music CD and want to listen to it on your computer. When you reach home, you see your sister is sleeping in the computer room. Which of the following hardware components will you use to listen to the CD without disturbing your sister?",
+                    "a":"Web cam",
+                    "b":"Speaker",
+                    "c":"Microphone",
+                    "d":"Headphones"
+                },
+                {
+                    "q":"Abigail wants to use her computer to record her voice. Which hardware component of the computer will she use to do this?",
+                    "a":"Speaker",
+                    "b":"Microphone",
+                    "c":"Headphones",
+                    "d":"Scanner"
+                },
+                {
+                    "q":"You are paying for your visit to a doctor in a hospital. You ask for a payment receipt.Which hardware component can produce your payment receipt on paper?",
+                    "a":"Microphone",
+                    "b":"Display adapter",
+                    "c":"Scanner",
+                    "d":"Printer"
+                },
+                {
+                    "q":"You want to type text to create a story in a word-processing program. Which of the following hardware components will you use to do this?",
+                    "a":"Keyboard",
+                    "b":"Printer",
+                    "c":"Modem",
+                    "d":"Web cam"
+                }
+            ]
+        },
+        {
+            "name":"SS2(Intermediate-class)",
+            "payload":[
+                {
+                    "q":"Julia creates a project that includes several illustrations. She draws the illustrations in a notebook. She needs to capture the illustrations from the notebook and save them on her computer. Which of the following hardware components will she use to capture the illustrations?",
+                    "a":"Modem",
+                    "b":"Microphone",
+                    "c":"Speaker",
+                    "d":"Scanner"
+                },
+                {
+                    "q":"Shift is a ________________________________ key",
+                    "a":"Navigational key",
+                    "b":"Numerical key",
+                    "c":"Alphanumeric key",
+                    "d":"Special key"
+                },
+                {
+                    "q":"Which mouse button most commonly opens items?",
+                    "a":"Left",
+                    "b":"Right",
+                    "c":"Middle",
+                    "d":"Wheel"
+                },
+                {
+                    "q":"What does the right mouse button most commonly do?",
+                    "a":"Open Items",
+                    "b":"Perform Tasks",
+                    "c":"Display a menu",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"What does PC stand for?",
+                    "a":"Profile Computer",
+                    "b":"Personal Computer",
+                    "c":"Personal Common",
+                    "d":"Professional Computer"
+                },
+                {
+                    "q":"Salis wants to get a computer that is portable but as strong as a desktop computer, what should he get?",
+                    "a":"Tablet",
+                    "b":"Smartphone",
+                    "c":"Laptop",
+                    "d":"Desktop"
+                },
+                {
+                    "q":"The CPU acts as the _______ of a computer.",
+                    "a":"Heart",
+                    "b":"Blood",
+                    "c":"Brain",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"What does GUI stand for?",
+                    "a":"Generate User Input",
+                    "b":"Graphical User Interface",
+                    "c":"General User Interface",
+                    "d":"Graphical User Input"
+                },
+                {
+                    "q":"Billy buys a new computer that has an operating system on it. She wants to know about the operating system and its functions. Which of the following explanations will you use to describe the functions of an operating system to Billy?",
+                    "a":"Takes pictures",
+                    "b":"Manages hardware and software",
+                    "c":"Scans images",
+                    "d":"Prints documents"
+                },
+                {
+                    "q":"Ken wants to know about the term software. Which of the following explanations will you use to explain the term software?",
+                    "a":"Physical components of a computer system",
+                    "b":"A piece of information",
+                    "c":"Instructions that make hardware work",
+                    "d":"Rules that enable computers to connect with one another"
+                },
+                {
+                    "q":"In Windows 10, which menu of the Settings app manages the accessibility settings?",
+                    "a":"Devices",
+                    "b":"Network and Internet",
+                    "c":"Ease of",
+                    "d":"Privacy"
+                },
+                {
+                    "q":"You can use the portable storage devices to:",
+                    "a":"Improve storage abilities of your computer",
+                    "b":"Transfer files from computer to another computer",
+                    "c":"Save a copy in a safe location",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"What determines the speed at which your computer performs tasks?",
+                    "a":"RAM",
+                    "b":"CPU",
+                    "c":"Hard Disk",
+                    "d":"Video Card"
+                },
+                {
+                    "q":"You modify a document that is saved on your computer. Where are the changes stored until you save the document?",
+                    "a":"Random access memory (RAM)",
+                    "b":"Read-only memory (ROM)",
+                    "c":"Compact disc (CD)",
+                    "d":"Floppy disk"
+                },
+                {
+                    "q":"You see your friend playing a game on his computer. You want to play the same game on your computer, so you borrow the game CD from him. However, the game runs slowly on your computer. Which of the following components will you change to increase the speed of your computer?",
+                    "a":"Random access memory (RAM)",
+                    "b":"Monitor",
+                    "c":"Keyboard",
+                    "d":"Universal serial bus (USB) port"
+                },
+                {
+                    "q":"Enrique reads an advertisement about a computer hardware store. He wants to know the meaning of the term hardware. How will you define the term hardware for Enrique?",
+                    "a":"Physical parts of a computer",
+                    "b":"An item of information",
+                    "c":"Instructions that make programs work",
+                    "d":"Rules designed to enable computers to connect with one another"
+                },
+                {
+                    "q":"_______________ Is a computer program",
+                    "a":"Set of Bit",
+                    "b":"Set of instructions",
+                    "c":"Set of data",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"What does the right mouse button most commonly do?",
+                    "a":"Open Items",
+                    "b":"Perform Tasks",
+                    "c":"Display a menu",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Which of the following holds data temporarily until the CPU needs it?",
+                    "a":"RAM",
+                    "b":"Control Unit",
+                    "c":"Processor",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"In order to play and hear sound on a computer, one needs",
+                    "a":"All of them required",
+                    "b":"A microphone",
+                    "c":"A sound card and speakers",
+                    "d":"None of these"
+                },
+                {
+                    "q":"Which one of the following is not an example of computer hardware?",
+                    "a":"Monitor",
+                    "b":"Mouse",
+                    "c":"Printer",
+                    "d":"Excel"
+                },
+                {
+                    "q":"The most common input device is the ______________________",
+                    "a":"Light pen",
+                    "b":"Keyboard",
+                    "c":"Monitor",
+                    "d":"Mouse"
+                },
+                {
+                    "q":"The _______________manual tells you how to use a software program.",
+                    "a":"User",
+                    "b":"Technical",
+                    "c":"Programming",
+                    "d":"Documentation"
+                },
+                {
+                    "q":"Which of the following is NOT associated with Computers?",
+                    "a":"Screen",
+                    "b":"Mouse",
+                    "c":"Bit",
+                    "d":"Pencil"
+                },
+                {
+                    "q":"Ctrl, shift and alt are called _____________ keys.",
+                    "a":"Adjustment",
+                    "b":"Alphanumeric",
+                    "c":"Function",
+                    "d":"Modifier"
+                }
+            ]
+        },
+        {
+            "name":"SS3(Advanced-class)",
+            "payload":[
+                {
+                    "q":"Samira prepares for her computer exam. She does not understand the concept of an operating system. She calls you for help. How will you define /'operating system'/ for Samira?",
+                    "a":"An electronic device that is connected to your computer",
+                    "b":"A storage device in your computer",
+                    "c":"A program that controls and manages the computer",
+                    "d":"A circuit board that connects the input, output, and processing devices"
+                },
+                {
+                    "q":"You notice that your friend is using a calculator on his computer. In which of the following categories does the calculator belong?",
+                    "a":"Computer",
+                    "b":"Hardware",
+                    "c":"Operating system",
+                    "d":"Data"
+                },
+                {
+                    "q":"You open Microsoft Windows Media Player on your computer to play some music.Windows Media Player prompts you to provide a music file as input. How will you categorize this music file?",
+                    "a":"Operating system",
+                    "b":"Hardware",
+                    "c":"Data",
+                    "d":"Application"
+                },
+                {
+                    "q":"You list the birthdays of your friends in Microsoft Notepad. What type of data do you enter to make this list?",
+                    "a":"Audio",
+                    "b":"Video",
+                    "c":"Graphic",
+                    "d":"Text"
+                },
+                {
+                    "q":"An operating system is the most important system ___________ on the computer.",
+                    "a":"Hardware",
+                    "b":"Software",
+                    "c":"Peripheral device",
+                    "d":"Application"
+                },
+                {
+                    "q":"What happens when you select the /'Minimize'/ button at the top of an application window?",
+                    "a":"The window closes",
+                    "b":"The window hides until restored",
+                    "c":"The window goes full screen",
+                    "d":"The window moves to the side of the screen"
+                },
+                {
+                    "q":"Which one is an operating system?",
+                    "a":"Notepad",
+                    "b":"Microsoft Word",
+                    "c":"Microsoft Windows",
+                    "d":"Paint"
+                },
+                {
+                    "q":"Which one is a function of an application?",
+                    "a":"Managing computer hardware",
+                    "b":"Managing computer software",
+                    "c":"Allowing human control of the computer",
+                    "d":"Doing quick calculations"
+                },
+                {
+                    "q":"These devices can be connected to a computer through Bluetooth technology except:",
+                    "a":"Speakers",
+                    "b":"Mouse",
+                    "c":"Hard drive",
+                    "d":"Headphones"
+                },
+                {
+                    "q":"What is the smallest unit of memory?",
+                    "a":"Byte",
+                    "b":"Bit",
+                    "c":"Kilobyte",
+                    "d":"Megabyte"
+                },
+                {
+                    "q":"Adventure Works is an advertising company that uses hundreds of high-quality photographs every week. The company stores all these photographs on a computer.What memory size will you choose for the hard disk of the computer that stores all these photographs?",
+                    "a":"100 Kilobytes",
+                    "b":"100 Megabytes",
+                    "c":"100 Gigabytes",
+                    "d":"100 Bits"
+                },
+                {
+                    "q":"Many computer devices use a form of volatile memory that cannot hold data after the device is turned off. Which of the following options is an example of volatile memory?",
+                    "a":"Flash memory",
+                    "b":"Hard disk",
+                    "c":"Compact disc read-only memory (CD-ROM)",
+                    "d":"Random access memory (RAM)"
+                },
+                {
+                    "q":"Your friend sends you a computer game. After installing the game on your computer, you realize that it plays very slowly. You know that the CPU speed and hard disk for your computer are the same as they are in your friend's computer. What could be the reason for this slow performance?",
+                    "a":"Your computer has less random-access memory (RAM).",
+                    "b":"You have a slow Internet connection.",
+                    "c":"Your friend has an advanced keyboard.",
+                    "d":"Your friend has an advanced mouse."
+                },
+                {
+                    "q":"You open five programs at the same time on your computer. After opening the programs,you realize that the speed of the computer is considerably slower. What is the reason for the slowness of your computer?",
+                    "a":"Non-functional keyboard",
+                    "b":"Non-functional mouse",
+                    "c":"Insufficient random-access memory (RAM)",
+                    "d":"Low monitor speed"
+                },
+                {
+                    "q":"Your friend wants to view your live image while you chat with her online. Which of the following devices installed on your computer will help her do this?",
+                    "a":"Web cam",
+                    "b":"Printer",
+                    "c":"Scanner",
+                    "d":"Microphone"
+                },
+                {
+                    "q":"John works as a sales representative with Northwind Traders. He has to make a presentation to his customers in another town. The presentation occupies 10 gigabytes(GB) on his computer. He wants to make some final changes to this presentation while he is traveling. Which of the following types of computer will help John carry this data with him?",
+                    "a":"Mainframe",
+                    "b":"Personal digital assistant (PDA)",
+                    "c":"Laptop",
+                    "d":"Desktop computer"
+                },
+                {
+                    "q":"Minimum software requirements usually include enough hard disk space, enough RAM and what?",
+                    "a":"Spreadsheet",
+                    "b":"Processor speed",
+                    "c":"CD or DVD player",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Which of the following options can be called data?",
+                    "a":"Text",
+                    "b":"Numbers",
+                    "c":"Images",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"__________________is a group of instructions that directs a computer?",
+                    "a":"Logic",
+                    "b":"Data",
+                    "c":"Program",
+                    "d":"Information"
+                },
+                {
+                    "q":"The system unit of a personal computer typically contains all of the following except____",
+                    "a":"Monitor",
+                    "b":"RAM",
+                    "c":"Modem",
+                    "d":"Microprocessor"
+                },
+                {
+                    "q":"What is usually used for displaying information at public places?",
+                    "a":"Monitor",
+                    "b":"Touch screen Kiosks",
+                    "c":"Computer screen",
+                    "d":"Overhead Projector"
+                },
+                {
+                    "q":"A permanent memory, which holds data and instruction for start up the computer and does not erased data after power off is________________",
+                    "a":"Network interface card",
+                    "b":"ROM",
+                    "c":"RAM",
+                    "d":"CPU"
+                },
+                {
+                    "q":"Which of the following is the fastest type of computer?",
+                    "a":"Workstation",
+                    "b":"Supercomputer",
+                    "c":"Notebook",
+                    "d":"Laptop"
+                },
+                {
+                    "q":"_________________is a high-speed memory that is much faster than the main memory?",
+                    "a":"Internal",
+                    "b":"External",
+                    "c":"Cache",
+                    "d":"Primary"
+                },
+                {
+                    "q":"The main memory holds data and program____________",
+                    "a":"Temporarily",
+                    "b":"Permanently",
+                    "c":"Only once",
+                    "d":"None"
+                }
+            ]
+        }
+    ],
+    "Navigating the  Internet and WWW" : [
+        {
+            "name":"SS1(Basic-class)",
+            "payload":[
+                {
+                    "q":"Your friend publishes some photographs on his Web site. You want to view these photographs. After connecting your computer to the Internet, which of the following programs will you start to access your friend's Web site and view the photographs?",
+                    "a":"Web browser",
+                    "b":"Word processor",
+                    "c":"Email client",
+                    "d":"Antivirus"
+                },
+                {
+                    "q":"Cristiana wants to know what an email is and what she will need to be able to exchange e-mail messages with her friends. What will you tell Cristiana?",
+                    "a":"Computer and internet access",
+                    "b":"Printer and photocopier",
+                    "c":"Plug-in and printer",
+                    "d":"Search engine and Information"
+                },
+                {
+                    "q":"Your brother wants to know about email. He asks you to explain simply the use of sending email messages. Which of the following options is a benefit of email that you will mention?",
+                    "a":"Exchange text and pictures with people.",
+                    "b":"Send cash to people.",
+                    "c":"Send couriers to people.",
+                    "d":"Scan pictures."
+                },
+                {
+                    "q":"You must have an Internet Service Provider (ISP) to connect to the Internet",
+                    "a":"True",
+                    "b":"False",
+                    "c":"Not True",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Every Website on the Internet has a unique IP address.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"What’s a web browser?",
+                    "a":"A kind of spider",
+                    "b":"A computer that stores www files",
+                    "c":"A person who likes to look at websites",
+                    "d":"A software program that allows you to access sites on the world wide web"
+                },
+                {
+                    "q":"Which of the following is considered the latest browser?",
+                    "a":"Mosaic",
+                    "b":"Google Chrome",
+                    "c":"IE",
+                    "d":"Mozilla Firefox"
+                },
+                {
+                    "q":"Which of the following is a Web Browser?",
+                    "a":"MS-OFFICE",
+                    "b":"Notepad",
+                    "c":"Firefox",
+                    "d":"Word 2007"
+                },
+                {
+                    "q":"The advantages of E-commerce are_____________________",
+                    "a":"Stores are open all the time",
+                    "b":"No need to stand in queues or being placed for hold on forever",
+                    "c":"Lots of choice",
+                    "d":"All of these"
+                },
+                {
+                    "q":"_________________.It is used to search/find information on the web.",
+                    "a":"Email",
+                    "b":"Webpage",
+                    "c":"Search engine",
+                    "d":"None of these"
+                },
+                {
+                    "q":"When we enter the chat, we enter the imaginary room known as",
+                    "a":"chat room",
+                    "b":"study room",
+                    "c":"guest room",
+                    "d":"None of these"
+                },
+                {
+                    "q":"________________ is used to address a person on the chat",
+                    "a":"Surname",
+                    "b":"pet name",
+                    "c":"nickname",
+                    "d":"real name"
+                },
+                {
+                    "q":"Which protocol use to transmit information on the World Wide Web",
+                    "a":"HTPP",
+                    "b":"HPPT",
+                    "c":"HTTTP",
+                    "d":"HTTP"
+                },
+                {
+                    "q":"WWW stands for_____________________________",
+                    "a":"World Wide Web",
+                    "b":"Web World Web",
+                    "c":"World Wide Weblink",
+                    "d":"Wide World Web"
+                },
+                {
+                    "q":"Your brother wants to create an online journal to document a special event so that all of your friends can view the pictures and illustrations. Which of the following online communities will help him create this online journal?",
+                    "a":"Blog",
+                    "b":"Chat group",
+                    "c":"Newsgroup",
+                    "d":"Bulletin board"
+                },
+                {
+                    "q":"You want to chat with your friends over the Internet. Which program must you install to do this?",
+                    "a":"Microsoft Windows Messenger",
+                    "b":"Microsoft Paint",
+                    "c":"Microsoft Office Word 2013",
+                    "d":"Microsoft Office Excel 2013"
+                },
+                {
+                    "q":"The place where emails are stored is referred to as____________________",
+                    "a":"The inbox.",
+                    "b":"The ISP's mail server.",
+                    "c":"The mail box.",
+                    "d":"The internet post office."
+                },
+                {
+                    "q":"Which of the following is true about web browsers?",
+                    "a":"Software tool used to view web pages.",
+                    "b":"Software tool used to create and edit web pages.",
+                    "c":"Software tool used to examine the accuracy of web pages.",
+                    "d":"Software tool used to provide security for web pages."
+                },
+                {
+                    "q":"What short name is associated with the World Wide Web?",
+                    "a":"Internet",
+                    "b":"Web",
+                    "c":"Network",
+                    "d":"Google"
+                },
+                {
+                    "q":"What is the specific medium through which you have access to the WWW?",
+                    "a":"Service provider",
+                    "b":"Internet",
+                    "c":"Mobile phone",
+                    "d":"Data access"
+                },
+                {
+                    "q":"When you visit the World Wide Web, what is the name of the page that opens?",
+                    "a":"Web page",
+                    "b":"Landing page",
+                    "c":"Layout page",
+                    "d":"Data page"
+                },
+                {
+                    "q":"What is a group of pages with a common theme and domain name?",
+                    "a":"Internet",
+                    "b":"Website",
+                    "c":"Web",
+                    "d":"Web browser"
+                },
+                {
+                    "q":"What does URL mean as developed by the creator of the WWW?",
+                    "a":"Uninterrupted Real Layout",
+                    "b":"Uniform Resource Locator",
+                    "c":"Unidentified Research Load",
+                    "d":"Uninterrupted Realm Largesse"
+                },
+                {
+                    "q":"What does HTTPS stand for?",
+                    "a":"Hyperlink Text Transfer Platform Security",
+                    "b":"Hypertext Transfer Protocol Secured",
+                    "c":"Hyperlink Text Transfer Process School",
+                    "d":"Hypertext Text Protocol Server"
+                },
+                {
+                    "q":"A piece of icon or image on web page associated with another web page is called___",
+                    "a":"URL",
+                    "b":"Hyperlink",
+                    "c":"Linking",
+                    "d":"Plugin"
+                }
+            ]
+        },
+        {
+            "name":"SS2(Intermediate-class)",
+            "payload":[
+                {
+                    "q":"You want to know more about active volcanoes in the world. You connect your computer to the Internet to find information based on the keyword /'active volcanoes.'/Which of the following features of the World Wide Web (WWW) will you use?",
+                    "a":"Search engine",
+                    "b":"Plug-in",
+                    "c":"Uniform Resource Locator (URL)",
+                    "d":"E-mail"
+                },
+                {
+                    "q":"You want to create an online journal that describes a music concert you attended last week. You want your friends to read the journal and view the pictures of the concert. Which of the following online communities will you use to create this online journal?",
+                    "a":"Blog",
+                    "b":"Chat group",
+                    "c":"Newsgroup",
+                    "d":"Forum"
+                },
+                {
+                    "q":"Your friend is in another part of the world, and you want to have a real-time conversation with him. Which of the following options will help you do this?",
+                    "a":"Presentation program",
+                    "b":"Courier service",
+                    "c":"Postal service",
+                    "d":"Instant messaging"
+                },
+                {
+                    "q":"Sam is traveling and wants to keep in touch with you over the Internet. He wants to interact with you in real time. Which of the following programs will let the two of you communicate in real time?",
+                    "a":"Presentation program",
+                    "b":"Chat program",
+                    "c":"Word-processing program",
+                    "d":"Spreadsheet program"
+                },
+                {
+                    "q":"Web browsers read the information sent from a website.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"A ________________ is a document commonly written and is accessible through the internet or other network using a browser?",
+                    "a":"Accounts",
+                    "b":"Data",
+                    "c":"Web page",
+                    "d":"Search engine"
+                },
+                {
+                    "q":"Which of the following is the oldest web browser still in general use?",
+                    "a":"Lynx",
+                    "b":"Safari",
+                    "c":"Internet Explorer",
+                    "d":"Navigator"
+                },
+                {
+                    "q":"Which of the following is the latest web browser ?",
+                    "a":"Safari",
+                    "b":"Chrome",
+                    "c":"Microsoft Edge",
+                    "d":"Lynx"
+                },
+                {
+                    "q":"The term that is used for various e-cash payment and electronic payment schemes on the Internet",
+                    "a":"Digital Money",
+                    "b":"Plastic Money",
+                    "c":"Paper Money",
+                    "d":"None of these"
+                },
+                {
+                    "q":"In _________________image and sounds are then sent through the Internet where users not only hear each other but can also have face to face communication",
+                    "a":"Chatting",
+                    "b":"Video conferencing",
+                    "c":"Mailing",
+                    "d":"Morphing image"
+                },
+                {
+                    "q":"When you are not online, your status is set to_______________",
+                    "a":"Out of coverage area",
+                    "b":"not connected",
+                    "c":"online",
+                    "d":"offline"
+                },
+                {
+                    "q":"The internet also simply known as________________",
+                    "a":"NA",
+                    "b":"NOT",
+                    "c":"NET",
+                    "d":"NFT"
+                },
+                {
+                    "q":"A web address is also called a ____________________",
+                    "a":"LRU",
+                    "b":"URL",
+                    "c":"LUR",
+                    "d":"ULR"
+                },
+                {
+                    "q":"You use your computer to chat with a friend who lives in another country. Which network lets you transfer the messages between your computer and your friend's computer?",
+                    "a":"Intranet",
+                    "b":"Internet",
+                    "c":"Local area Network",
+                    "d":"Ethernet"
+                },
+                {
+                    "q":"Your friend wants to create and publish a Web page. He tells you that he wants to learn the language that is used to create a Web page. Which language will he start with ?",
+                    "a":"Wireless Markup Language",
+                    "b":"Hypertext Transfer Language",
+                    "c":"Hypertext Markup Language",
+                    "d":"Standard General Language"
+                },
+                {
+                    "q":"Sabina creates a Web site for the first time. She wants to know which protocol her Web browser uses to display Web pages. Which of the following protocols does her Web browser use?",
+                    "a":"File Transfer Protocol (FTP)",
+                    "b":"Hypertext Transfer Protocol (HTTP)",
+                    "c":"Simple Mail Transfer Protocol (SMTP)",
+                    "d":"Internet Protocol (IP)"
+                },
+                {
+                    "q":"You are explaining the concept of e-mail to your friend. Which of the following options will you use as an analogy?",
+                    "a":"Postal mail",
+                    "b":"Telephone directory",
+                    "c":"Fax machine",
+                    "d":"Note Taking"
+                },
+                {
+                    "q":"You need to send an email over the Internet to your friend Paula. What information do you need to send a message to Paula?",
+                    "a":"Telephone",
+                    "b":"E-mail address",
+                    "c":"Home address",
+                    "d":"Company address"
+                },
+                {
+                    "q":"You want to send your photographs to a friend. What should you do to make sure that your friend’s email inbox does not get filled?",
+                    "a":"Compress Attachment",
+                    "b":"Format Message",
+                    "c":"Use Rich Format",
+                    "d":"Use Default Formatting"
+                },
+                {
+                    "q":"Another name for ISP is_______________________",
+                    "a":"Internet access provider",
+                    "b":"Digital subscribers",
+                    "c":"Telephone companies",
+                    "d":"Digital network"
+                },
+                {
+                    "q":"What is meant by 'information as a commodity'?",
+                    "a":"People are willing to pay for the information needed",
+                    "b":"Information is now a factor of production",
+                    "c":"Information is being produced",
+                    "d":"Information can easily be accessed"
+                },
+                {
+                    "q":"Which email feature notify a sender that the mail sent was not delivered?",
+                    "a":"Forward feature",
+                    "b":"Demon feature",
+                    "c":"Bounce feature",
+                    "d":"IP returned mail"
+                },
+                {
+                    "q":"Which protocol guarantees delivery of an email message sent over the Internet?",
+                    "a":"TCP",
+                    "b":"IP",
+                    "c":"SMTP",
+                    "d":"POP"
+                },
+                {
+                    "q":"Internet norms and practices are referred to as",
+                    "a":"Net etiquette",
+                    "b":"Netiquette",
+                    "c":"Internet culture",
+                    "d":"Rules"
+                },
+                {
+                    "q":"What is the best classification to give the WWW?",
+                    "a":"Laid site",
+                    "b":"Programmed pages",
+                    "c":"Readable documents",
+                    "d":"Information space"
+                }
+            ]
+        },
+        {
+            "name":"SS3(Advanced-class)",
+            "payload":[
+                {
+                    "q":"Chris wants to send an e-mail message to his friends. He has a modem connected to his desktop computer. What else does Chris need to send the e-mail message?",
+                    "a":"Personal digital assistant (PDA)",
+                    "b":"Internet connection",
+                    "c":"Web cam",
+                    "d":"Printer"
+                },
+                {
+                    "q":"Susan helps her son prepare for a computer exam. While describing the World Wide Web (WWW), she explains that he can access a Web site by using a unique alphanumeric address. To which of the following terms is Susan referring?",
+                    "a":"URL",
+                    "b":"Web browser",
+                    "c":"ISP",
+                    "d":"WWW"
+                },
+                {
+                    "q":"You are communicating with your friend by using instant messaging. Both computers have a microphone and a Webcam. Which of the following options are possible?",
+                    "a":"Print documents",
+                    "b":"View your friend during the communication",
+                    "c":"Send a fax",
+                    "d":"Scan images"
+                },
+                {
+                    "q":"You can use the Internet to which of the following?",
+                    "a":"Transfer money to pay a bill",
+                    "b":"Video Chat with a friend in a different country",
+                    "c":"Listen to a new music album",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"You can listen to music or watch videos saved on your computer but not from the Internet.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"Which of the following is used to read HTML code and to render Webpage?",
+                    "a":"Web Server",
+                    "b":"Web Browser",
+                    "c":"Web Matrix",
+                    "d":"Weboni"
+                },
+                {
+                    "q":"What is the name of the browser developed and released by Google?",
+                    "a":"Chrome",
+                    "b":"Googly Google",
+                    "c":"Heetson",
+                    "d":"Titanium"
+                },
+                {
+                    "q":"Which of the following browsers has high speed browsing capacity?",
+                    "a":"Chrome",
+                    "b":"Opera",
+                    "c":"UC browser",
+                    "d":"Lynx"
+                },
+                {
+                    "q":"E-commerce includes",
+                    "a":"Online business to business or consumer transactions",
+                    "b":"Online merchandising",
+                    "c":"Digital delivery of products and services",
+                    "d":"All of these"
+                },
+                {
+                    "q":"Online chat is any form of real time communication over the _____________ between two or more computer users",
+                    "a":"Garden",
+                    "b":"road",
+                    "c":"Internet",
+                    "d":"None of these"
+                },
+                {
+                    "q":"It actually means of having live text-based conversations with other people connected to the internet.",
+                    "a":"Talking",
+                    "b":"Murmuring",
+                    "c":"Texting",
+                    "d":"Chatting"
+                },
+                {
+                    "q":"Which of the following is an example of connectivity?",
+                    "a":"Floppy Disk",
+                    "b":"Data",
+                    "c":"Internet",
+                    "d":"Power card"
+                },
+                {
+                    "q":"Which of the following is used to write web pages?",
+                    "a":"URL",
+                    "b":"FTP",
+                    "c":"HTTP",
+                    "d":"HTML"
+                },
+                {
+                    "q":"You visit your friend's house and find her searching for books on the Internet. Which of the following describes the status of your friend's computer?",
+                    "a":"Online",
+                    "b":"Offline",
+                    "c":"Sleep Mode",
+                    "d":"Logged off"
+                },
+                {
+                    "q":"At home, your grandfather watches you working on your computer. He recently heard about the Internet and wants to know what it is. How will you define the Internet to him?",
+                    "a":"A program installed on a computer",
+                    "b":"An Electronic device for printing documents",
+                    "c":"A worldwide collection of computer networks",
+                    "d":"A power backup source"
+                },
+                {
+                    "q":"You own a small bookstore. Because of the popularity of the Internet, you decide to provide online services for your customers. Where will you go to get an Internet connection for your computer?",
+                    "a":"Software development company",
+                    "b":"Hardware Company",
+                    "c":"Internet cafe",
+                    "d":"Internet Service Provider (ISP)"
+                },
+                {
+                    "q":"You purchase a computer so that you can work from home. You request an Internet connection from an Internet service provider. Which of the following physical devices will the ISP use to connect your computer to the Internet?",
+                    "a":"Cables",
+                    "b":"Speakers",
+                    "c":"Scanners",
+                    "d":"Sound card"
+                },
+                {
+                    "q":"You have a computer at home. The computer is connected to the Internet through a dial up connection. Every time you connect to the Internet, you send a request to the Internet service provider. Which device establishes this connection?",
+                    "a":"sound card",
+                    "b":"Modem",
+                    "c":"Microphone",
+                    "d":"Speaker"
+                },
+                {
+                    "q":"You want to use the Internet to view a list of the latest movies. Which of the following must you use to access the Internet?",
+                    "a":"Microsoft Notepad",
+                    "b":"Microsoft Paint",
+                    "c":"Web browser",
+                    "d":"Address book"
+                },
+                {
+                    "q":"Your brother sends you an e-mail message that includes various URLs. Which one of the following is a valid URL?",
+                    "a":"http://www.margiestravel.com",
+                    "b":"www\\margiestravel.com",
+                    "c":"http://com.margiestravel.www",
+                    "d":"http\\:www.margiestravel.com"
+                },
+                {
+                    "q":"You open the home page for www.alpineskihouse.com. On the home page, you see a link for the weather report. You want to view the weather report in a separate window, but you do not want the home page to close.",
+                    "a":"Type the keyword weather in the address bar and then click New Page.",
+                    "b":"Click the link for the weather report.",
+                    "c":"Right-click the link for the weather report and then click Open in New Window",
+                    "d":"Type the keyword weather in the Search box."
+                },
+                {
+                    "q":"Salman is curious about e-mail. He asks you about the medium that is used to send an e-mail message. Which of the following options will you use to answer his question?",
+                    "a":"Fax machine",
+                    "b":"Postal service",
+                    "c":"Courier service",
+                    "d":"Internet"
+                },
+                {
+                    "q":"As you read your e-mail messages in Windows Mail, you notice that some messages require a follow-up activity. What will you do to ensure that you remember to do the follow-up activity for the messages?",
+                    "a":"Create a To Do list.",
+                    "b":"Sort messages by name.",
+                    "c":"Set a flag.",
+                    "d":"Move the e-mail messages to a new folder"
+                },
+                {
+                    "q":"You want to send an email to apply for a job in a company.",
+                    "a":"Attractive colors",
+                    "b":"Smilies",
+                    "c":"Fancy quotations",
+                    "d":"Formal Salutation"
+                }
+            ]
+        }
+    ]  
+}
+
+
+
