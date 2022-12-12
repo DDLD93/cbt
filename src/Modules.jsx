@@ -41,6 +41,10 @@ function Modules() {
                         </MenuItem>
                         <MenuItem value={"Use Of computers and digital mobile devices"}>Use Of computers and digital mobile devices</MenuItem>
                         <MenuItem value={"Navigating the  Internet and WWW"}>Navigating the  Internet and WWW</MenuItem>
+                        <MenuItem value={"Multimedia Services"}>Multimedia Services</MenuItem>
+                        <MenuItem value={"Productivity Programs"}>Productivity Programs</MenuItem>
+                        <MenuItem value={"Computer Security And Privacy"}>Computer Security And Privacy</MenuItem>
+                        <MenuItem value={"Networking And Collaboration"}>Networking And Collaboration</MenuItem>
                     </Select>
                 </FormControl>
                 <FormControl sx={{ m: 1, minWidth: 220 }} size="small">

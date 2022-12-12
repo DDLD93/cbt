@@ -58,15 +58,29 @@ export default function Questionaire() {
       </Grid>
       <Divider orientation="vertical" />
       <Grid 
-     
+        container
+        flexWrap={"nowrap"}
+        flexDirection={"column"}
       sx={{
         padding:"0px 0px"
       }}
       flex={3} >
         {questions && questions.map((question, index) => {
           if (index == step) {
-            return <FormControl>
-              <FormLabel id="demo-radio-buttons-group-label">{question.q}</FormLabel>
+            return <FormControl
+            sx={{
+              width:"100%"
+            }}
+            >
+              <Typography m={3}>Question 1 of 20</Typography>
+              <FormLabel
+              sx={{
+                height:"100px",
+                width:"100%",
+                margin:"1px"
+
+              }}
+              id="demo-radio-buttons-group-label">{question.q}</FormLabel>
               <RadioGroup
               sx={{
                 padding:5,
@@ -93,8 +107,8 @@ export default function Questionaire() {
         })}
         <Button sx={{
           position:"absolute",
-          top:530,
-          right:200
+          bottom:100,
+          right:300
        
         }}
         disabled={!answer&&true}
