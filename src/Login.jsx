@@ -20,9 +20,9 @@ function Login() {
         justifyContent: "center",
         alignItems: "center",
         flexDirection: "column",
-        padding: 2,
+        padding: 3,
         gap: 5,
-        minWidth: 400,
+        minWidth: 300,
         height: 450
       }}
     >
