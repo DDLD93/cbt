@@ -1056,7 +1056,2077 @@
                 }
             ]
         }
-    ]  
+    ],
+    "Multimedia Services" : [
+        {
+            "name":"SS1(Basic-class)",
+            "payload":[
+                {
+                    "q":"A multimedia file",
+                    "a":"is same as any other regular file",
+                    "b":"Must be accessed at specific rate",
+                    "c":"stored on remote server cannot be delivered to its client",
+                    "d":"None of the mentioned"
+                },
+                {
+                    "q":"Which one of the following resource is not necessarily required on a file server?",
+                    "a":"Secondary storage",
+                    "b":"Processor",
+                    "c":"Network",
+                    "d":"Monitor"
+                },
+                {
+                    "q":"Which of the following audio file formats is commonly not compressed.",
+                    "a":"WAV",
+                    "b":"MP3",
+                    "c":"WMA",
+                    "d":"MP4"
+                },
+                {
+                    "q":"MP3 files are commonly used to stream music on the internet.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"Which of the following allows you to stream TV shows or movies on the Internet?",
+                    "a":"Online entertainment services",
+                    "b":"DVDs",
+                    "c":"Digital Copies",
+                    "d":"YouTube"
+                },
+                {
+                    "q":"You must always have an Internet connection to watch TV or movies on your computer or smart device.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"MPEG stand for",
+                    "a":"Moving Picture Experts Group",
+                    "b":"Moving Point Exchange Group",
+                    "c":"Mobile Portable Exchange Group",
+                    "d":"Motor Printer Experience Group"
+                },
+                {
+                    "q":"Data communications are transfer of data through some",
+                    "a":"transmission medium.",
+                    "b":"linear medium.",
+                    "c":"network lan.",
+                    "d":"protocols."
+                },
+                {
+                    "q":"Which of the following is a component of multimedia?",
+                    "a":"Text",
+                    "b":"Images",
+                    "c":"Audio",
+                    "d":"All of these"
+                },
+                {
+                    "q":"JPEG may be expanded as",
+                    "a":"Joint photographic Exports Group",
+                    "b":"Joint Physical Experts Group",
+                    "c":"Joint Physical Exports Group",
+                    "d":"Joint Photographic Experts Group"
+                },
+                {
+                    "q":"_____ is an application that allows you to send and receive messages over cell phones.",
+                    "a":"Animated service",
+                    "b":"Message service",
+                    "c":"MMS",
+                    "d":"Multimedia"
+                },
+                {
+                    "q":"MMS stands for______________________",
+                    "a":"Multiple Mail System",
+                    "b":"Multimedia Messaging System",
+                    "c":"Multimedia Mail System",
+                    "d":"Multiple Messaging System"
+                },
+                {
+                    "q":"Multimedia enhances the entire ___ for the users.",
+                    "a":"Engagement",
+                    "b":"Experience",
+                    "c":"Excitement",
+                    "d":"Entertainment"
+                },
+                {
+                    "q":"We can reduce the size of the video files by ____________them.",
+                    "a":"compressing",
+                    "b":"converting",
+                    "c":"zipping",
+                    "d":"morphing"
+                },
+                {
+                    "q":"Computer Based Tutorials are _____ learning aids.",
+                    "a":"Self learning",
+                    "b":"Self tutor",
+                    "c":"Self paced",
+                    "d":"Self taught"
+                },
+                {
+                    "q":"_____ and _____ are the input devices used in creating the simulation.",
+                    "a":"Keyboard, Mouse",
+                    "b":"Joysticks, Sensors",
+                    "c":"Keyboard, Sensors",
+                    "d":"Mouse, Joystick"
+                },
+                {
+                    "q":"What is Plug-ins?",
+                    "a":"accessory downloads to improve the functionality",
+                    "b":"audio cable",
+                    "c":"vg connector",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"What is Microphone",
+                    "a":"converts sound to an electric signal",
+                    "b":"smallest phone",
+                    "c":"smart phone",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"HD format stand for?",
+                    "a":"high definition",
+                    "b":"high density",
+                    "c":"High-Tech digital",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"What is Interactive media?",
+                    "a":"responds to users action",
+                    "b":"linear media",
+                    "c":"print media",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"What is Image compression?",
+                    "a":"reduce the image data",
+                    "b":"reduce height and width",
+                    "c":"reduce physical size",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"DPI stands for?",
+                    "a":"resolution measurement",
+                    "b":"resolution physical size",
+                    "c":"resolution for",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"A quality of Digital Image is measured by",
+                    "a":"physical size",
+                    "b":"height and width",
+                    "c":"dpi",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"You can stream digital audio files to listen to audio without having to download a large audio file.",
+                    "a":"False",
+                    "b":"True",
+                    "c":"Not False",
+                    "d":"None of the above"
+                }
+            ]
+        },
+        {
+            "name":"SS2(Intermediate-class)",
+            "payload":[
+                {
+                    "q":"In which type of streaming multimedia file is delivered to the client, but not shared?",
+                    "a":"real-time streaming",
+                    "b":"progressive download",
+                    "c":"compression",
+                    "d":"none of the mentioned"
+                },
+                {
+                    "q":"Why are digital video records and camcorders smaller than older video cameras?",
+                    "a":"Technology always makes things smaller",
+                    "b":"Digital video doesn’t require tape",
+                    "c":"Digital video camcorders aren’t smaller",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"What option do newer movies on DVD now come with so that you can watch a movie on a smart device?",
+                    "a":"DVD",
+                    "b":"Online",
+                    "c":"Digital Download",
+                    "d":"None of the Above"
+                },
+                {
+                    "q":"What does AVI stand for?",
+                    "a":"Audio for Voice on the Internet",
+                    "b":"Audio Voice Interleaved",
+                    "c":"Audio Video Interleaved",
+                    "d":"Adapted Video for Internet"
+                },
+                {
+                    "q":"Example of an analogue-to-analogue conversion is",
+                    "a":"radio.",
+                    "b":"video.",
+                    "c":"television.",
+                    "d":"internet."
+                },
+                {
+                    "q":"The application that allows to send and receive messages over cell phone is",
+                    "a":"Microwave Messaging Service",
+                    "b":"Multimedia Messaging Service",
+                    "c":"Multimedia Media Service",
+                    "d":"Microwave Media Service"
+                },
+                {
+                    "q":"MIDI stand for?",
+                    "a":"musical instrument digital interface",
+                    "b":"a costume",
+                    "c":"brand name of recording equipment",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Digital technology has integrated what we listen to, watch, and how we communicate.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"_____________has a dark box with a lens that focuses light to create an image.",
+                    "a":"Digital video",
+                    "b":"Digital camera",
+                    "c":"Audio file",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"You can transfer pictures taken with a digital camera to a computer. You can use any of the following to transfer pictures.",
+                    "a":"Bluetooth",
+                    "b":"USB cable",
+                    "c":"Printer Cable",
+                    "d":"Hard drive"
+                },
+                {
+                    "q":"Which of the following is NOT a common feature of image or photo editing?",
+                    "a":"Red-eye removal",
+                    "b":"Sound effects",
+                    "c":"Contrast",
+                    "d":"Crop"
+                },
+                {
+                    "q":"High quality _______ is another option for near photographic quality prints.",
+                    "a":"High speed internet",
+                    "b":"Smart printer technology",
+                    "c":"High-definition printing",
+                    "d":"Photo printing paper"
+                },
+                {
+                    "q":"Computers can be used as",
+                    "a":"Communication Device",
+                    "b":"TVs",
+                    "c":"Entertainment device",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Which of the following allows you to stream TV shows or movies on the Internet?",
+                    "a":"Online entertainment services",
+                    "b":"DVDs",
+                    "c":"Digital Copies",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"Radio is categorized as a ___________________ media",
+                    "a":"mass media",
+                    "b":"visual media",
+                    "c":"print media",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Which of the following is not a video file extension",
+                    "a":"MP4",
+                    "b":"AVI",
+                    "c":"QT",
+                    "d":"JPEG"
+                },
+                {
+                    "q":"Cyberspace",
+                    "a":"virtual world of computer networks",
+                    "b":"space for design",
+                    "c":"space research",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"E-Commerce",
+                    "a":"commerce learning through internet",
+                    "b":"business conducted over the internet",
+                    "c":"engineering commerce",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Video streaming",
+                    "a":"group of people communicates through internet",
+                    "b":"community radio",
+                    "c":"online communication of different communities",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Webcasting",
+                    "a":"media presentation distributed over the internet",
+                    "b":"web design",
+                    "c":"web creation",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Pixels stand for _____________________",
+                    "a":"digital image",
+                    "b":"analogue",
+                    "c":"vector",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Image Enhancing Software",
+                    "a":"photoshop",
+                    "b":"page maker",
+                    "c":"ms excel",
+                    "d":"power point"
+                },
+                {
+                    "q":"__________________ Is not an image Format",
+                    "a":"bitmap",
+                    "b":"gif",
+                    "c":"pixel",
+                    "d":"jpeg"
+                },
+                {
+                    "q":"cyber media is",
+                    "a":"vast quantities of information stored in network",
+                    "b":"name of an organization",
+                    "c":"traditional media",
+                    "d":"none of the above"
+                }
+            ]
+        },
+        {
+            "name":"SS3(Advanced-class)",
+            "payload":[
+                {
+                    "q":"Which one of the following is the characteristic of a multimedia system?",
+                    "a":"high storage",
+                    "b":"high data rates",
+                    "c":"both A and B",
+                    "d":"none of the mentioned"
+                },
+                {
+                    "q":"Speaking to your computer to write a document is an example of what?",
+                    "a":"Audio digital technology",
+                    "b":"Speech recognition",
+                    "c":"Speech synthesis",
+                    "d":"Audio file"
+                },
+                {
+                    "q":"Which of the following file extensions would be used for a Quick Time movie?",
+                    "a":"Avi",
+                    "b":"Mpg",
+                    "c":"Mov",
+                    "d":"sgi"
+                },
+                {
+                    "q":"VRML stands for which of the following?",
+                    "a":"Very Real Marking Language",
+                    "b":"Virtual Reality Marking Language",
+                    "c":"Virtual Reality Markup Language",
+                    "d":"Virtual Reality Makeup Language"
+                },
+                {
+                    "q":"Virtual Reality is useful in training pilots in flight",
+                    "a":"Imitation",
+                    "b":"Model",
+                    "c":"Simulators",
+                    "d":"Simulation"
+                },
+                {
+                    "q":"Multimedia has an _____ impact on education.",
+                    "a":"E-learning",
+                    "b":"Extensive",
+                    "c":"Effective",
+                    "d":"Enormous"
+                },
+                {
+                    "q":"and animations are frequently used to make computer games thrilling and realistic.",
+                    "a":"Images",
+                    "b":"Special effects",
+                    "c":"Graphics",
+                    "d":"High-end graphics"
+                },
+                {
+                    "q":"Multimedia ___ are being used in a variety of different fields.",
+                    "a":"Graphics",
+                    "b":"Applications",
+                    "c":"Programs",
+                    "d":"Visuals"
+                },
+                {
+                    "q":"What option do newer movies on DVD now come with so that you can watch a movie on a smart device?",
+                    "a":"DVD",
+                    "b":"Online",
+                    "c":"Digital Download",
+                    "d":"None of the Above"
+                },
+                {
+                    "q":"DAB stand for",
+                    "a":"digital audio broadcasting",
+                    "b":"digital audio book",
+                    "c":"decibel",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"In digital audio, ----------------- describes the number of bits of Information recorded for each sample.",
+                    "a":"Signal power",
+                    "b":"Bit depth",
+                    "c":"Ambience",
+                    "d":"Acoustics"
+                },
+                {
+                    "q":"______________________is a process of converting analogue audio into digital audio",
+                    "a":"sampling",
+                    "b":"recording",
+                    "c":"stretching",
+                    "d":"digitizing"
+                },
+                {
+                    "q":"Multimedia represents the convergence of text, sound, video and____into a single form.",
+                    "a":"news",
+                    "b":"pictures",
+                    "c":"songs",
+                    "d":"all of the above"
+                },
+                {
+                    "q":"Bit depth is________________",
+                    "a":"Number of bits of information in each sample",
+                    "b":"Depth of sound",
+                    "c":"Volume controller",
+                    "d":"Audio Equipment"
+                },
+                {
+                    "q":"Hyper media is______________________",
+                    "a":"various data linked together by a hypertext program.",
+                    "b":"media hype",
+                    "c":"print media",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"E-Journalism is___________________",
+                    "a":"traditional journalism",
+                    "b":"reporting electronic news",
+                    "c":"reporting through internet",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"Web portals",
+                    "a":"search engine, email, links to other related sites, personalized content.",
+                    "b":"static web pages",
+                    "c":"a company website",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"User interface design",
+                    "a":"graphical representation for user",
+                    "b":"tutorial for user",
+                    "c":"introduction for user",
+                    "d":"none of the above"
+                },
+                {
+                    "q":"The Colour model used for print media",
+                    "a":"CMYK",
+                    "b":"HSB",
+                    "c":"RGB",
+                    "d":"BMP"
+                },
+                {
+                    "q":"Which one of the following is a web production tool?",
+                    "a":"page maker",
+                    "b":"ms power point",
+                    "c":"dream weaver",
+                    "d":"ms word"
+                },
+                {
+                    "q":"A media presentation over Internet is referred to as",
+                    "a":"webcasting",
+                    "b":"video conference",
+                    "c":"live television broadcast",
+                    "d":"offline presentation"
+                },
+                {
+                    "q":"Which of the following is traditional media?",
+                    "a":"print media",
+                    "b":"electronic media",
+                    "c":"online media",
+                    "d":"web media"
+                },
+                {
+                    "q":"__________________is the measure of the degree of sharpness of an image",
+                    "a":"resolution",
+                    "b":"pixel",
+                    "c":"accuracy",
+                    "d":"depth"
+                },
+                {
+                    "q":"Content Analysis in multimedia is __________________",
+                    "a":"a systematic analysis written work, speech, or film",
+                    "b":"numerical analysis",
+                    "c":"advertising on bus backs",
+                    "d":"billboard advertising"
+                }
+            ]
+        }
+    ],
+    "Productivity Programs" :[
+        {
+            "name":"SS1(Basic-class)",
+            "payload":[
+                {
+                    "q":"Markus creates a document by using Microsoft Office Word 2003 and saves it with the name Office.doc. Which of the following components of Word 2003 will display the document name?",
+                    "a":"Menu bar",
+                    "b":"Toolbar",
+                    "c":"Title bar",
+                    "d":"Status bar"
+                },
+                {
+                    "q":"Cornelia uses Microsoft Office Excel 2003 to create a worksheet that contains the estimated costs of her business project. She wants to update certain costs. Which component of Excel 2003 will display the changes in the worksheet?",
+                    "a":"Title bar",
+                    "b":"Work area",
+                    "c":"Scroll bar",
+                    "d":"Task bar"
+                },
+                {
+                    "q":"Stephan creates a business presentation by using Microsoft Office PowerPoint 2003. He saves it with the name Presentation.ppt. Stephan opens the file to make some changes, and he wants to save it with a different name. Which of the following commands on the File menu will Stephan use to save the file with a different name?",
+                    "a":"Save",
+                    "b":"Save As",
+                    "c":"Send To",
+                    "d":"Page Setup"
+                },
+                {
+                    "q":"Nina uses Excel 2003 to create a work plan for her team. She wants to print the plan and discuss it with the team members in a meeting. Which of the following menus will Nina use to print the plan?",
+                    "a":"File",
+                    "b":"View",
+                    "c":"Format",
+                    "d":"Tools"
+                },
+                {
+                    "q":"You use Office Word 2003 to create a business document. You copy text from another document and want to add it to your business document. Which of the following commands on the Edit menu will you use for this?",
+                    "a":"Paste",
+                    "b":"Replace",
+                    "c":"Go To",
+                    "d":"Find"
+                },
+                {
+                    "q":"Ewa creates a table by using Word 2003 to record some data. She wants to increase the size of the text in the table to make it more readable. Which command on the Format menu will Ewa use to change the size of the text in the table?",
+                    "a":"Font",
+                    "b":"Paragraph",
+                    "c":"AutoFormat",
+                    "d":"Columns"
+                },
+                {
+                    "q":"You use Office Word 2003 to write an essay. After typing the document, you notice that a few words have a red wavy underline as shown in the exhibit. Using the mouse, which action will you perform to view the shortcut menu for the underlined words?",
+                    "img":"",
+                    "a":"Right-click",
+                    "b":"Double-click",
+                    "c":"Click",
+                    "d":"Scroll"
+                },
+                {
+                    "q":"You want to send an e-mail message to your friend to describe your meeting with Michal. However, you incorrectly type the name as Michael. Where will you place the insertion point if you want to use the DELETE key to remove the letter e in the name Michael?",
+                    "a":"After the letter l",
+                    "b":"Before the letter l",
+                    "c":"Before the letter e",
+                    "d":"After the letter e"
+                },
+                {
+                    "q":"You want to access your MSN Hotmail account to check e-mail messages. The characters in your password are in upper case. Which key will you press on the keyboard to type the password correctly in upper case?",
+                    "a":"NUM LOCK",
+                    "b":"CAPS LOCK",
+                    "c":"INSERT",
+                    "d":"CTRL"
+                },
+                {
+                    "q":"You create a document in which you forget to include an important line in a paragraph. When you type the missing text, you begin to overwrite the existing text. Which key do you press on the keyboard to ensure that the new text does not overwrite the existing text in the paragraph?",
+                    "a":"INSERT",
+                    "b":"BACKSPACE",
+                    "c":"SPACEBAR",
+                    "d":"ENTER"
+                },
+                {
+                    "q":"You create a business presentation by using Office PowerPoint 2003. Which key will you use as a shortcut to display a slide show in PowerPoint 2003?",
+                    "a":"F5",
+                    "b":"F6",
+                    "c":"F7",
+                    "d":"F8"
+                },
+                {
+                    "q":"You are at the tenth page of a 20-page document. You need to make changes on the last page of the document. Which key will you use in combination with CTRL to move to the bottom of the last page?",
+                    "a":"ESC",
+                    "b":"SHIFT",
+                    "c":"HOME",
+                    "d":"END"
+                },
+                {
+                    "q":"Peter wants to protect a confidential document by using a password. He wants to use an asterisk and an ampersand symbol in his password. Which of the following keys does he press in combination with the number keys to correctly type the symbols in his password?",
+                    "a":"SHIFT",
+                    "b":"INSERT",
+                    "c":"SPACEBAR",
+                    "d":"BACKSPACE"
+                },
+                {
+                    "q":"You create a document by using Office Word 2003. You need to enter the copyright symbol in this document. Which key combination will you use to add the copyright symbol?",
+                    "a":"ALT+0169",
+                    "b":"TAB+0169",
+                    "c":"INSERT+0169",
+                    "d":"SHIFT+0169"
+                },
+               
+                {
+                    "q":"Christa makes a list of the guests she wants to invite to her daughter's wedding. She types the guest names and contact details in a document in Office Word 2003. She wants to know how many guests are on the list. Which of the following features will help Christa track the number of guests while she makes the list?",
+                    "a":"Bullets and Numbering",
+                    "b":"AutoFormat",
+                    "c":"Reviewing",
+                    "d":"Word Count"
+                },
+                {
+                    "q":"Your friend wants to move text from the first paragraph of an article to the last paragraph by using the quickest method. Which of the following options will help him do this?",
+                    "a":"Delete the text from the first paragraph and then type it in the last paragraph.",
+                    "b":"Use the Cut command to delete the text from the first paragraph, and then paste it in the last paragraph.",
+                    "c":"Type the text of the first paragraph in the last paragraph and then delete it from the first paragraph.",
+                    "d":"Enter the text of the first paragraph in a new document."
+                },
+              
+                {
+                    "q":"Isabel wants to write an essay in Spanish by using Office Word 2003. She wants to use the language tools for Spanish, such as the spelling checker that Word provides. Which of the following menus will she use to set the language to Spanish so that she can use the language tools for Spanish?",
+                    "a":"Tools",
+                    "b":"View",
+                    "c":"Format",
+                    "d":"Insert"
+                },
+                {
+                    "q":"Daniela creates a document by using Office Word 2003, as shown in the exhibit. She uses the Spelling and Grammar tool to detect a misspelled word. Which of the following buttons will Daniela use to correct the spelling of this word throughout the document?",
+                    "a":"Change All",
+                    "b":"Accept Change",
+                    "c":"AutoFormat",
+                    "d":"Track Changes"
+                },
+                {
+                    "q":"Your friend wants to know about the AutoCorrect feature of Word 2003. What will you tell her about the AutoCorrect feature?",
+                    "a":"It helps you define the formatting attributes in a document.",
+                    "b":"It identifies spelling errors while you type and suggests alternatives for them.",
+                    "c":"It formats the styles of the text.",
+                    "d":"It enables you to set default paper margins"
+                }
+            ]
+        },
+        {
+            "name":"SS2(Intermediate-class)",
+            "payload":[
+                {
+                    "q":"Barbara wants to create a newsletter. She needs a program that provides several newsletter templates. Which of the following programs will meet her needs?",
+                    "a":"Desktop publishing program",
+                    "b":"Presentation program",
+                    "c":"E-mail program",
+                    "d":"Spreadsheet program"
+                },
+                {
+                    "q":"David wants to know the benefits of desktop publishing programs. Which of the following benefits do desktop publishing programs provide?",
+                    "a":"Advanced formatting techniques",
+                    "b":"Video editing",
+                    "c":"Virus scanning",
+                    "d":"Web site browsing"
+                },
+                {
+                    "q":"Syed wants to know how to properly refer to the intersection of a row and a column in a spreadsheet. Which of the following options answers his question?",
+                    "a":"Cell",
+                    "b":"Label",
+                    "c":"Value",
+                    "d":"Worksheet"
+                },
+                {
+                    "q":"Richard creates his monthly budget on a worksheet in Microsoft Office Excel 2003. He enters data in the worksheet, as displayed in the exhibit. What is the collection of cells containing the data called?",
+                    "img":"",
+                    "a":"Cell range",
+                    "b":"Row",
+                    "c":"Column",
+                    "d":"Cell pointer"
+                },
+                {
+                    "q":"Charlotte creates her expense sheet for the month, as shown in the exhibit. Which column will she use to enter the amount spent on fuel?",
+                    "img":"",
+                    "a":"B7",
+                    "b":"C7",
+                    "c":"7C",
+                    "d":"8C"
+                },
+                
+              
+                {
+                    "q":"Alexander lends some money to Niraj. Alexander maintains a worksheet that lists the amount and the date when he lent money to Niraj, as displayed in the exhibit. He wants to calculate the total amount of money he lent to Niraj. The list is very long, and he wants to know if there is a button that he can click to calculate the total amount due. Which of the following toolbar buttons will Alexander click?",
+                    "img":"",
+                    "a":"AutoSum",
+                    "b":"AutoCorrect",
+                    "c":"AutoSummarize",
+                    "d":"AutoFormat"
+                },
+                {
+                    "q":"Larry creates a table by using Access. He wants to set data types for the fields in the table. In which of the following views will Larry open the table to set the data types?",
+                    "a":"Datasheet view",
+                    "b":"Design view",
+                    "c":"Print preview",
+                    "d":"Table Wizard"
+                },
+                {
+                    "q":"Mark is a librarian at the School of Fine Art. By using Access 2003, he wants to create a database of the available books and their authors. Which of the following menus will Mark use to create this database?",
+                    "a":"Tools",
+                    "b":"File",
+                    "c":"Database Objects",
+                    "d":"Database Utilities"
+                },
+                {
+                    "q":"Stephanie wants to create a new table in Access. Which of the following options will she use?",
+                    "a":"Write a macro.",
+                    "b":"Use a wizard.",
+                    "c":"Create a form.",
+                    "d":"Generate a report."
+                },
+                {
+                    "q":"Dina plans her budget. She wants to know what part of the total expenses she spent on groceries last month. She uses a spreadsheet and wants to make a chart to depict the portion spent on the groceries. Which of the following charts will meet her needs?",
+                    "a":"Line",
+                    "b":"Pie",
+                    "c":"Surface",
+                    "d":"Area"
+                },
+    
+                {
+                    "q":"Marko uses Excel 2003 to create a budget sheet for the total expenses that he spends on household items. He wants to view the data in a graph. Which tool will he use to represent the data through a graph?",
+                    "a":"Chart Wizard",
+                    "b":"AutoContent Wizard",
+                    "c":"Clip art gallery",
+                    "d":"Budget Template Wizard"
+                },
+               
+                {
+                    "q":"Your friend sees you working on a presentation program. She wants to know about the features of this program. Identify the features of presentation programs.",
+                    "a":"Create audio-visual presentations",
+                    "b":"Edit video",
+                    "c":"Perform calculations",
+                    "d":"Enable real-time communication"
+                },
+                {
+                    "q":"David uses Microsoft Office PowerPoint 2003 to create a presentation. He wants to add more slides to the presentation. Which of the following menus will he use to add slides to the presentation?",
+                    "a":"Insert",
+                    "b":"Tools",
+                    "c":"Edit",
+                    "d":"File"
+                },
+                {
+                    "q":"Carol is learning to create a presentation by using PowerPoint 2003. She wants to know how to add display effects on various slides of the presentation. Which of the following options will you suggest to her?",
+                    "a":"Slide Design",
+                    "b":"Slide Transition",
+                    "c":"Slide Show",
+                    "d":"Slide Layout"
+                },
+                {
+                    "q":"Pia creates a presentation by using PowerPoint. The slides in the presentation must contain a title, a bulleted list, and a diagram. Which of the following menu options will she select to do this?",
+                    "a":"Chart Wizard",
+                    "b":"Slide Transition",
+                    "c":"Background",
+                    "d":"Slide Layout"
+                },
+                {
+                    "q":"You create a presentation by using PowerPoint. Which of the following toolbars will you use to add geometric shapes to the presentation?",
+                    "a":"Drawing",
+                    "b":"Formatting",
+                    "c":"Reviewing",
+                    "d":"Standard"
+                },
+                {
+                    "q":"Laura opens a presentation that she creates by using PowerPoint 2003. She wants to manually set timings for a slide show. Therefore, she wants to view the slides in the presentation as thumbnails. Which of the following views will Laura choose?",
+                    "a":"Outline",
+                    "b":"Slide Sorter",
+                    "c":"Normal",
+                    "d":"Slide Show"
+                },
+                {
+                    "q":"Stella uses PowerPoint to create a presentation about the performance of her class. In the presentation, she wants to show a comparison between the assessment scores of her class in the current year and the previous year. Which of the following objects will  Stella add to the presentation to display the comparison?",
+                    "a":"AutoShape",
+                    "b":"Video clips",
+                    "c":"Clip Art",
+                    "d":"Chart"
+                },
+                {
+                    "q":"You use PowerPoint 2003 to prepare a presentation about the quarterly performance of your organization across various regions. You represent this graphically by adding a Line chart in your presentation. However, you want to change the Line chart to a Column chart. To do this, you double-click the chart to display the Chart menu. Which of the following Chart menu commands will you use to change the Line chart to a Column chart?",
+                    "a":"Chart Type",
+                    "b":"Chart Options",
+                    "c":"AutoFormat",
+                    "d":"AutoCorrect"
+                },
+                {
+                    "q":"Larry prepares a presentation by using PowerPoint 2003. He needs to print the presentation to keep the key points handy. He wants an overview of the text in the slides, and he does not want to print the graphics. Which of the following formats will Larry select in the Print box to print the presentation?",
+                    "a":"Notes Pages",
+                    "b":"Slides",
+                    "c":"Handouts",
+                    "d":"Outline View"
+                },
+                {
+                    "q":"Paula manages the recruitments for A. Datum Corporation. The company hires 500 employees. Paula needs to store on her computer the personal details, compensation structure, and insurance details for each employee. Which of the following programs will Paula use?",
+                    "a":"Microsoft Notepad",
+                    "b":"Photo editing program",
+                    "c":"Presentation program",
+                    "d":"Database program"
+                }
+            ]
+        },
+        {
+            "name":"SS3(Advanced-class)",
+            "payload":[
+                {
+                    "q":"Your parents need to plan the budget for next month. To do this, they record the daily expenses of the current month and then calculate the total expenses for various categories, such as groceries, medical expenses, and clothes. Which of the following programs will they use to maintain the expense records and calculate the total of each category?",
+                    "a":"Publishing program",
+                    "b":"Spreadsheet program",
+                    "c":"Database program",
+                    "d":"Presentation program"
+                },
+                {
+                    "q":"You visit Access Bank to ask about your account balance. The teller gives you details within a short span of time. Which of the following programs does the bank use?",
+                    "a":"Publishing program",
+                    "b":"Graphics program",
+                    "c":"Database program",
+                    "d":"Presentation program"
+                },
+                {
+                    "q":"Your friend sends you a photograph of his son. You want to enlarge the photograph. Which program type will you use to make this modification?",
+                    "a":"Presentation program",
+                    "b":"Graphics program",
+                    "c":"Word-processing program",
+                    "d":"Spreadsheet program"
+                },
+                {
+                    "q":"Your colleague wants to quit her job. She wants to type her resignation letter. What kind of program will she use to do this?",
+                    "a":"Presentation program",
+                    "b":"Graphics program",
+                    "c":"Word-processing program",
+                    "d":"Spreadsheet program"
+                },
+                {
+                    "q":"Carol uses Microsoft Office Word 2007 to create documents and store data in them. She often uses a block of on-screen buttons, displayed in the following exhibit, to perform common tasks. What is the term used to describe the block of on-screen buttons displayed in the following exhibit?",
+                    "img":"",
+                    "a":"Ribbon",
+                    "b":"Quick Access Toolbar",
+                    "c":"Microsoft Office button",
+                    "d":"Groups"
+                },
+                {
+                    "q":"You need to print a few documents that you create by using Office Word 2007. After printing the documents, you then save the documents on your office computer. Which of the following tabs will you use to print the documents?",
+                    "a":"Home",
+                    "b":"Page Layout",
+                    "c":"View",
+                    "d":"Insert"
+                },
+                {
+                    "q":"Eric teaches his daughter Tina how to work with productivity programs. Tina notices a small blinking bar that stays in place until Eric clicks the mouse in a new location in the document. Tina wants to know the name of this blinking bar. Which of the following terms will Eric use to answer Tina's question?",
+                    "a":"Mouse pointer",
+                    "b":"Insertion point",
+                    "c":"Scroll bar",
+                    "d":"Status bar"
+                },
+                {
+                    "q":"Ursula creates a document in which she needs to insert some uppercase letters. She prefers not to use the CAPS LOCK key, and she needs to complete the document quickly. Which of the following keyboard keys can Ursula use in combination with the letters she wants to type in uppercase?",
+                    "a":"ESC",
+                    "b":"CTRL",
+                    "c":"ALT",
+                    "d":"SHIFT"
+                },
+                {
+                    "q":"You select a text in a document. Which commands in the Mini Toolbar can you use?",
+                    "a":"Line Spacing",
+                    "b":"Copy",
+                    "c":"Cut",
+                    "d":"Styles"
+                },
+                
+                {
+                    "q":"You use Microsoft Office Word 2007 to create a text-based document. You open three other documents to copy data from them. Which group on the Home tab will you use for this?",
+                    "a":"Clipboard",
+                    "b":"Font",
+                    "c":"Paragraph",
+                    "d":"Editing"
+                },
+                {
+                    "q":"Bob reviews a document by using Microsoft Office Word 2007. He needs to replace a word with another word of the same meaning. Which of the following features in Microsoft Office Word 2007 can he use to do this?",
+                    "a":"Copy and Paste",
+                    "b":"Thesaurus",
+                    "c":"AutoCorrect",
+                    "d":"Research"
+                },
+                {
+                    "q":"Susan uses Microsoft Office Word 2007 to create a document. She wants to place the title in the centre of the page. Which of the following features in Microsoft Office Word 2007 can Susan use to do this?",
+                    "a":"Alignment",
+                    "b":"Spacing",
+                    "c":"Font style",
+                    "d":"Font size"
+                },
+                {
+                    "q":"Michelle uses Microsoft Office Excel 2007 to create her expense sheet for the month. She wants to view the data in a graph. Which tool will she use to represent the data through a graph?",
+                    "a":"Chart Wizard",
+                    "b":"AutoContent Wizard",
+                    "c":"Clip Art gallery",
+                    "d":"Budget Template Wizard"
+                },
+                {
+                    "q":"John trains his team to work with spreadsheets. One of his team members wants to know what the point of intersection of a row and a column is known as. Which of the following options will John use to answer his team member's question?",
+                    "a":"Label",
+                    "b":"Cell",
+                    "c":"value",
+                    "d":"worksheet"
+                },
+                {
+                    "q":"Don is a teacher. He uses Microsoft Office Excel 2007 to store the scores of all of his students. He wants to find the total score for each student. Which of the following toolbar buttons will he use to calculate the total score?",
+                    "a":"AutoSum",
+                    "b":"AutoCount",
+                    "c":"AutoSummarize",
+                    "d":"AutoFormat"
+                },
+                {
+                    "q":"Angela plans her office budget for the next month. She wants to know what part of the total expenses she spent on office supplies last month. Using a worksheet, she wants to insert a chart showing the part spent on office supplies. Which of the following charts will she use?",
+                    "a":"Line",
+                    "b":"Pie",
+                    "c":"surface",
+                    "d":"Area"
+                },
+                {
+                    "q":"You want to use Microsoft Office PowerPoint 2007 to create a presentation on your computer. You need to add some geometric shapes to the presentation. Which of the following tabs will you use to do this?",
+                    "a":"Home",
+                    "b":"Design",
+                    "c":"Animations",
+                    "d":"View"
+                },
+                {
+                    "q":"Your friend needs to create a presentation about a product launch by his company. He wants to know the features available in presentation programs. Which of the following features will you list for him?",
+                    "a":"Create handouts",
+                    "b":"Edit video",
+                    "c":"Perform calculations",
+                    "d":"Enable real-time communication"
+                },
+                {
+                    "q":"Mark creates a business presentation by using Microsoft Office PowerPoint 2007. In this presentation, he needs to show a comparison between the productivity of his company in the current year and the previous year. Which of the following objects will he add to the presentation to show the comparison?",
+                    "a":"AutoShape",
+                    "b":"Audio clip",
+                    "c":"Clip Art",
+                    "d":"Chart"
+                },
+                {
+                    "q":"Thomas creates a presentation on his computer by using Microsoft Office PowerPoint 2007. He wants to add display effects on various slides of the presentation. Which of the following options in Microsoft Office PowerPoint 2007 can he use to add the display effects?",
+                    "a":"Slide Design",
+                    "b":"Slide Transition",
+                    "c":"Slide Show",
+                    "d":"Slide Layout"
+                },
+                {
+                    "q":"Alan works as an administrator in a school. He wants the registration numbers of the students to be unique in the student database table. He adds a field named Registration Number in the student database table. Which of the following actions will Alan perform on the Registration Number field in the database table to ensure that each student receives a unique registration number?",
+                    "a":"Define the field as a primary key",
+                    "b":"Specify the data type as text",
+                    "c":"Set a Validation Rule for the field",
+                    "d":"Create an Input Mask for the field"
+                },
+               
+                {
+                    "q":"Patricia is a travel agent. She enters a customer name, address, and phone number in the customer database. She wants to know which object is used to organize and store this data in Microsoft Office Access 2007. Which of the following objects will you select to answer her query?",
+                    "a":"Query",
+                    "b":"Table",
+                    "c":"Form",
+                    "d":"Report"
+                },
+                {
+                    "q":"You open a table in Access in the Datasheet view. You want to filter the data in the table. Which of the following menus will you use to select the filter command?",
+                    "a":"Tools",
+                    "b":"Record",
+                    "c":"Format",
+                    "d":"Insert"
+                }
+            ]
+        }
+    ],
+    "Computer Security And Privacy" :[
+        {
+            "name":"SS1(Basic-class)",
+            "payload":[
+                {
+                    "q":"Joe uses Microsoft Windows XP on his office computer. He wants to control the access rights to his computer. Therefore, he specifies a user name and password to log on to the computer. Which of the following processes does the operating system perform to confirm his logon information?",
+                    "a":"Computation",
+                    "b":"Initialization",
+                    "c":"Authentication",
+                    "d":"Authorization"
+                },
+                {
+                    "q":"What is computer privacy?",
+                    "a":"Keeping your personal files and data secure and a secret.",
+                    "b":"Keeping data open to everyone",
+                    "c":"Disclose of data and information",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Where is a component that a power surge can destroy?",
+                    "a":"Screen",
+                    "b":"Keyboard",
+                    "c":"Motherboard",
+                    "d":"None"
+                },
+                {
+                    "q":"____________ involves creating multiple copies of your data in a separate location",
+                    "a":"Downloading",
+                    "b":"Uploading",
+                    "c":"Back up",
+                    "d":"Record"
+                },
+                
+                {
+                    "q":"What is a hacker?",
+                    "a":"A person that tries to illegally access your computer",
+                    "b":"A weapon that can damage your computer",
+                    "c":"A program to protect your program",
+                    "d":"None"
+                },
+                {
+                    "q":"How often should you back up data?",
+                    "a":"Once in a while",
+                    "b":"After the computer is stolen or malfunctions",
+                    "c":"On a regular schedule",
+                    "d":"None"
+                },
+                {
+                    "q":"A firewall is an effective way to protect against threats.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"Restricting access to your computer can keep data safe from others.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"You should keep your password a secret.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"_______________ is a common activity used to extract personal information from computer users and use the information for malicious purposes.",
+                    "a":"Fishing",
+                    "b":"Phishing",
+                    "c":"Cracking",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"An Instant Message can have attachments that are meant for malicious purposes.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"Spam emails can be stopped with which of the following:",
+                    "a":"Antivirus software",
+                    "b":"Privacy settings",
+                    "c":"Email filters",
+                    "d":"None"
+                },
+                {
+                    "q":"Trojan viruses can be stopped with which of the following:",
+                    "a":"Antivirus software",
+                    "b":"Privacy settings",
+                    "c":"Email filters",
+                    "d":"None"
+                },
+                {
+                    "q":"Online Predators target _____________",
+                    "a":"Children",
+                    "b":"Elderly",
+                    "c":"All of the above",
+                    "d":"None of the bove"
+                },
+                {
+                    "q":"The biggest security risks to your computer is ________",
+                    "a":"Speed",
+                    "b":"Friends",
+                    "c":"None",
+                    "d":"Physical Damage"
+                },
+                {
+                    "q":"The protection of a computer system and its data from accidental or intentional loss and tampering is _____________",
+                    "a":"Computer Virus",
+                    "b":"Computer Ethics",
+                    "c":"Computer Security",
+                    "d":"None"
+                },
+                {
+                    "q":"A small file on a computer that is created when a user visits a Web site is called ______",
+                    "a":"Threat",
+                    "b":"Cookies",
+                    "c":"Program",
+                    "d":"Virus"
+                },
+                {
+                    "q":"___________ is the process of reconverting the encrypted data into a readable and usable form",
+                    "a":"Encryption",
+                    "b":"Readable",
+                    "c":"Decryption",
+                    "d":"Execution"
+                },
+                {
+                    "q":"___________ is the process of converting data into an unreadable and unusable form and it is done to prevent unauthorized access of data, especially during data transmission over the Internet.",
+                    "a":"Encryption",
+                    "b":"Readable",
+                    "c":"Decryption",
+                    "d":"Execution"
+                },
+                {
+                    "q":"A ___________ blocks unreliable and unauthorized information from the Internet before it reaches your computer or a private network",
+                    "a":"Antivirus",
+                    "b":"Filter",
+                    "c":"Firewall",
+                    "d":"MAC"
+                },
+                {
+                    "q":"_______ is a unique string of characters that a user types in as an identification code. It is a security measure used to restrict access to computer systems and sensitive files",
+                    "a":"Loging",
+                    "b":"Password",
+                    "c":"Hacker",
+                    "d":"None"
+                },
+                {
+                    "q":"An irrelevant and unsolicited e-mail message sent by an unknown sender reside in ____",
+                    "a":"Inbox",
+                    "b":"Sent Mail",
+                    "c":"Spam",
+                    "d":"Outbox"
+                },
+                {
+                    "q":"SSL stand for _______________",
+                    "a":"Socket Secured Location",
+                    "b":"Secure Socket Layer",
+                    "c":"Secure Stand Location",
+                    "d":"Socket Secured Layer"
+                },
+                {
+                    "q":"Keith notices that his neighbour is posting false statements about him on the message board of a Web site. Which of the following activities is Keith's neighbour performing?",
+                    "a":"Plagiarism",
+                    "b":"Defamation",
+                    "c":"Gambling",
+                    "d":"Phishing"
+                }
+            ]
+        },
+        {
+            "name":"SS2(Intermediate-class)",
+            "payload":[
+                {
+                    "q":"Firewalls are to protect against _________________",
+                    "a":"Virus Attacks",
+                    "b":"Fire Attacks",
+                    "c":"Data Driven Attacks",
+                    "d":"Unauthorized Attacks"
+                },
+                {
+                    "q":"A hard copy would be prepared on a ___________",
+                    "a":"Printer",
+                    "b":"Joystick",
+                    "c":"Trackball",
+                    "d":"All of these"
+                },
+                {
+                    "q":"The security of a system can be improved by ______________",
+                    "a":"Audit log",
+                    "b":"Threat monitoring",
+                    "c":"Both (a) and (b)",
+                    "d":"None of these"
+                },
+                {
+                    "q":"Which one of the following is a key function of a firewall?",
+                    "a":"Copying",
+                    "b":"Moving",
+                    "c":"Deleting",
+                    "d":"Monitoring"
+                },
+                {
+                    "q":"Unauthorized copying of software to be used for personal gain of personal backups is called",
+                    "a":"Program looting",
+                    "b":"Program thievery",
+                    "c":"Data snatching",
+                    "d":"Software piracy"
+                },
+                {
+                    "q":"Like a virus, it is a self-replicating program it also propagates through computer network",
+                    "a":"Phishing scam",
+                    "b":"Worm",
+                    "c":"Spyware",
+                    "d":"Cracker"
+                },
+                {
+                    "q":"The most common security failure is _______________",
+                    "a":"Depending on passwords",
+                    "b":"Carelessness by users",
+                    "c":"Too much emphasis on preventing physical access",
+                    "d":"Insufficient technology used to prevent breaches"
+                },
+                {
+                    "q":"Trojan-Horse programs ___________________",
+                    "a":"Usually are immediately discovered",
+                    "b":"Really do not usually work",
+                    "c":"Are hacker programs that do not show up on the system",
+                    "d":"Are legitimate programs that allow unauthorized access"
+                },
+                {
+                    "q":"The phrase ____________ describe viruses, worms, Trojan horse attack applets and attack scripts.",
+                    "a":"Spam",
+                    "b":"Phishing",
+                    "c":"Malware",
+                    "d":"Virus"
+                },
+                {
+                    "q":"Abuse messaging systems to send unsolicited is ______________",
+                    "a":"Phishing",
+                    "b":"Adware",
+                    "c":"Firewall",
+                    "d":"Spam"
+                },
+                {
+                    "q":"A person who uses his or her expertise to gain access to other people’s computers to get information illegally or do damage is a",
+                    "a":"Hacker",
+                    "b":"Analyst",
+                    "c":"Spammer",
+                    "d":"Programmer"
+                },
+                {
+                    "q":"Malicious access are unauthorized",
+                    "a":"Destruction of data",
+                    "b":"Modification of data",
+                    "c":"Reading of data",
+                    "d":"All of these"
+                },
+                {
+                    "q":"Encrypted passwords are used for _____________",
+                    "a":"Security purpose",
+                    "b":"Passwords list secret",
+                    "c":"Faster execution",
+                    "d":"Both (a) and (b)"
+                },
+                {
+                    "q":"A firewall is ______________________",
+                    "a":"Separates a network into multiple domains",
+                    "b":"May need to allow http to pass",
+                    "c":"Limits network access between the two security domains and maintains and logs all connections",
+                    "d":"is a computer or router that sits between the trusted and untrusted"
+                },
+                {
+                    "q":"In which of the following, a person is constantly followed/chased by another person or group of several people?",
+                    "a":"Phishing",
+                    "b":"Bulling",
+                    "c":"Stalking",
+                    "d":"Identity theft"
+                },
+                {
+                    "q":"_________is a type of software designed to help the user's computer detect viruses and avoid them.",
+                    "a":"Malware",
+                    "b":"Adware",
+                    "c":"Antivirus",
+                    "d":"Both B and C"
+                },
+                {
+                    "q":"A program designed to destroy data on your computer which can travel to infect other computers is called a __________",
+                    "a":"Virus",
+                    "b":"Disease",
+                    "c":"Hurricane",
+                    "d":"Torpedo"
+                },
+                {
+                    "q":"_____ are often delivered to PC through an E-mail attachment and are often designed to do harm.",
+                    "a":"Email messages",
+                    "b":"Portals",
+                    "c":"Spam",
+                    "d":"Viruses"
+                },
+                {
+                    "q":"A hacker contacts your phone or e-mails and attempts to acquire your password is called _________________________",
+                    "a":"Spamming",
+                    "b":"Buging",
+                    "c":"Spoofing",
+                    "d":"Phishing"
+                },
+                {
+                    "q":"Hackers often gain entry to a network be pretending to be at a legitimate computer",
+                    "a":"IP spoofing",
+                    "b":"Forging",
+                    "c":"Spoofing",
+                    "d":"None of these"
+                },
+                {
+                    "q":"Passwords enable users to _______________",
+                    "a":"get into the system quickly",
+                    "b":"make efficient use of time",
+                    "c":"retain confidentiality of files",
+                    "d":"simplify file structures"
+                },
+                {
+                    "q":"Which of the following is not harm to a computer resources",
+                    "a":"Malware",
+                    "b":"Virus",
+                    "c":"Trojan horse",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"What is a backup?",
+                    "a":"Restoring the information backup",
+                    "b":"An exact copy of a system’s information",
+                    "c":"The ability to get a system up and running in the event of a system crash or failure",
+                    "d":"All of these"
+                },
+                {
+                    "q":"A computer checks the _____ of user names and passwords for a match before granting access.",
+                    "a":"Website",
+                    "b":"Network",
+                    "c":"Backup file",
+                    "d":"Database"
+                },
+                {
+                    "q":"All of the following are examples of real security and privacy risks EXCEPT:",
+                    "a":"Hackers",
+                    "b":"Spam",
+                    "c":"Viruses",
+                    "d":"Identity theft"
+                }
+            ]
+        },
+        {
+            "name":"SS3(Advanced-class)",
+            "payload":[
+                {
+                    "q":"Security violation due to",
+                    "a":"Malicious",
+                    "b":"Accidental",
+                    "c":"both (a) and (b)",
+                    "d":"none of these"
+                },
+                {
+                    "q":"Which of the following would most likely NOT be a symptom of a virus?",
+                    "a":"Existing program files and icons disappear",
+                    "b":"The CD-ROM stops functioning",
+                    "c":"The Web browser opens to an unusual home page",
+                    "d":"Odd messages or images are displayed on the screen"
+                },
+                {
+                    "q":"All of the following are examples of real security and privacy risks EXCEPT:",
+                    "a":"Hackers",
+                    "b":"Spam",
+                    "c":"Viruses",
+                    "d":"Identity theft"
+                },
+                {
+                    "q":"_______________is a computer crime in which criminal breaks into a computer system for exploring details of information etc.",
+                    "a":"Hacking",
+                    "b":"Spoofing",
+                    "c":"Eavesdropping",
+                    "d":"Phishing"
+                },
+                {
+                    "q":"___________are viruses that are triggered by the passage of time or on a certain date.",
+                    "a":"Boot-sector viruses",
+                    "b":"Macro viruses",
+                    "c":"Time bombs",
+                    "d":"Worms"
+                },
+                {
+                    "q":"Verification of a login name and password is known as:",
+                    "a":"Configuration",
+                    "b":"Accessibility",
+                    "c":"Authentication",
+                    "d":"logging in"
+                },
+                {
+                    "q":"_________is a security protocol based on digital certificates.",
+                    "a":"Digital signature",
+                    "b":"Secure sockets layer protocol",
+                    "c":"Secure electronic transactions",
+                    "d":"None of these"
+                },
+                {
+                    "q":"The ability to recover and read deleted or damaged files from a criminals computer is an example of a law enforcement specialty called",
+                    "a":"Robotics",
+                    "b":"Simulation",
+                    "c":"computer forensics",
+                    "d":"animation"
+                },
+                {
+                    "q":"Firewalls are used to protect against ______________",
+                    "a":"unauthorized Attacks",
+                    "b":"virus Attacks",
+                    "c":"Data Driven Attacks",
+                    "d":"Fire Attacks"
+                },
+                {
+                    "q":"Junk e-mail is also called",
+                    "a":"Spam",
+                    "b":"Spoof",
+                    "c":"sniffer script",
+                    "d":"spool"
+                },
+                {
+                    "q":"Nowadays, Phishing has become a criminal practice of using social engineering over which of the following?",
+                    "a":"Social networking sites",
+                    "b":"Mobile Phones",
+                    "c":"E-mail",
+                    "d":"Cyber cafes"
+                },
+                {
+                    "q":"Technology no longer protected by copyright, available to everyone, is considered to be:",
+                    "a":"Proprietary",
+                    "b":"Open",
+                    "c":"Experimental",
+                    "d":"in the public domain"
+                },
+                {
+                    "q":"Back up of the data files will help to prevent _____________",
+                    "a":"loss of confidentiality",
+                    "b":"duplication of data",
+                    "c":"virus infection",
+                    "d":"loss of data"
+                },
+                {
+                    "q":"__________ can be used to minimize the risk of security breaches or viruses.",
+                    "a":"Firewall",
+                    "b":"Backups",
+                    "c":"Encryption",
+                    "d":"Digital signature"
+                },
+                {
+                    "q":"A ______sometimes called a boot sector virus, executes when a computer boots up because it resides in the boot sector of a floppy disk or the master boot record of a hard disk",
+                    "a":"system virus",
+                    "b":"Trojan horse virus",
+                    "c":"file virus",
+                    "d":"None of these"
+                },
+                {
+                    "q":"A result of a computer virus can not lead to _________________",
+                    "a":"Disk Crash",
+                    "b":"MotherBoard Crash",
+                    "c":"Corruption o f program",
+                    "d":"Deletion of files"
+                },
+                {
+                    "q":"__________ is the science that attempts to produce machines that display the same type of intelligence that humans do.",
+                    "a":"Nanoscience",
+                    "b":"Nanotechnology",
+                    "c":"Simulation",
+                    "d":"Artificial intelligence"
+                },
+                {
+                    "q":"If you receive an email from someone you don’t know, what should you do?",
+                    "a":"Forward it to the police immediately",
+                    "b":"Delete it without opening it",
+                    "c":"Open it and respond to them saying you don’t know them",
+                    "d":"Reply and ask them for their personal information"
+                },
+                {
+                    "q":"_____________Is a specialized form of online identity theft.",
+                    "a":"Spoofing",
+                    "b":"Unauthorized disclosure",
+                    "c":"Eavesdropping",
+                    "d":"Phishing"
+                },
+                {
+                    "q":"An electronic file that uniquely identifies individuals and websites on the internet and enables secure, confidential communications.",
+                    "a":"Digital signature",
+                    "b":"Digital certificates",
+                    "c":"Encryption",
+                    "d":"Firewalls"
+                },
+                {
+                    "q":"Identify the term which denotes that only authorized users are capable of accessing the information",
+                    "a":"Confidentiality",
+                    "b":"Availability",
+                    "c":"Integrity",
+                    "d":"Non-repudiation"
+                },
+                {
+                    "q":"State whether True or False: Data encryption is primarily used to ensure confidentiality.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"Cannot be interpreted",
+                    "d":"None"
+                },
+                {
+                    "q":"Which software is mainly used to help users detect viruses and avoid them?",
+                    "a":"Antivirus",
+                    "b":"Adware",
+                    "c":"Malware",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Identify the term which denotes the violation of principle if the computer is no more accessible.",
+                    "a":"Access control",
+                    "b":"Availability",
+                    "c":"Confidentiality",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"Which of the following is considered an element of cyber security?",
+                    "a":"Network security",
+                    "b":"Operational security",
+                    "c":"Application security",
+                    "d":"All of the above"
+                }
+            ]
+        }
+    ],
+    "Networking And Collaboration":[
+        {
+            "name":"SS1(Basic-class)",
+            "payload":[
+                {
+                    "q":"Social networks are organized primarily on ____________",
+                    "a":"Brands",
+                    "b":"People",
+                    "c":"Discussions",
+                    "d":"interests"
+                },
+                {
+                    "q":"Social networks have an information-sharing capacity. As such, a great distribution channel for?",
+                    "a":"customer feedback",
+                    "b":"viral content",
+                    "c":"exclusive coupons",
+                    "d":"marketing messages"
+                },
+                {
+                    "q":"Which social network is considered the most popular for business-to-business marketing?",
+                    "a":"Facebook",
+                    "b":"Orkut",
+                    "c":"Ryze",
+                    "d":"LinkedIn"
+                },
+                {
+                    "q":"Facebook and Linked are popular social networks globally.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"Maybe",
+                    "d":"Maybe not"
+                },
+                {
+                    "q":"when marketing with social networks is to identify the goals.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"Maybe",
+                    "d":"Maybe not"
+                },
+                {
+                    "q":"What equipment do you need to do a live video chat?",
+                    "a":"Webcam",
+                    "b":"Microphone",
+                    "c":"Speakers",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"best practice to interact under a personal account on LinkedIn.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"Maybe",
+                    "d":"Maybe not"
+                },
+                {
+                    "q":"____________ is a Web site that enables communication instantly with other people who have logged on to the same Web site.",
+                    "a":"Chartroom",
+                    "b":"Forum",
+                    "c":"Online Portal",
+                    "d":"Online Community"
+                },
+                {
+                    "q":"Your grandfather watches you working on your computer at home. He recently heard about the Internet and wants to know what it is. How will you define the Internet to him?",
+                    "a":"program installed on a computer",
+                    "b":"An electronic device for printing documents",
+                    "c":"A worldwide collection of various computer networks",
+                    "d":"A power backup source"
+                },
+                {
+                    "q":"Nina works on medical research. She finds some useful information about the causes of a disease. Nina wants to publish her findings so that people around the world can access it and benefit from it. Which of the following options must Nina use to publish her findings on the World Wide Web?",
+                    "a":"Internet",
+                    "b":"Ethernet",
+                    "c":"Local area network (LAN)",
+                    "d":"Metropolitan area network (MAN)"
+                },
+                {
+                    "q":"You are using your computer at home to chat with your friend. Your friend lives in another country. Which network enables the transfer of messages to your friend's computer?",
+                    "a":"Intranet",
+                    "b":"Internet",
+                    "c":"Metropolitan area network (MAN)",
+                    "d":"Ethernet"
+                },
+                {
+                    "q":"Your school has 20 computers in your computer lab. All of the computers in this lab are connected by using cables. What type of a network does your computer lab have?",
+                    "a":"Local area network (LAN) (Correct Answer)",
+                    "b":"Wide area network (WAN)",
+                    "c":"Satellite",
+                    "d":"Virtual"
+                },
+                {
+                    "q":"Your uncle sets up a new office that includes 10 computers. He wants the computers and their associated devices to be linked together so that they share files and resources, such as printers and scanners. What is this arrangement of computers called?",
+                    "a":"Network",
+                    "b":"Internet",
+                    "c":"Server",
+                    "d":"Workstation"
+                },
+                {
+                    "q":"Lisa starts a small business. She wants to set up a computer network in her new office so that her employees can share documents. She needs to identify the components that are required for the network. Which of the following components does Lisa need to form the network? Select two.",
+                    "a":"Web cam",
+                    "b":"Communication channel",
+                    "c":"Scanner",
+                    "d":"CD"
+                },
+                {
+                    "q":"Morten wants to play a game online. He hears modem tones every time his computer sends a request to the Internet service provider (ISP) to establish the Internet connection. What type of Internet connection does Morten use?",
+                    "a":"Dial-up",
+                    "b":"Broadband",
+                    "c":"WiFi",
+                    "d":"Dedicated"
+                },
+                {
+                    "q":"Chris wants to send an e-mail message to his friends. He has a modem connected to his desktop computer. What else does Chris need to send the e-mail message?",
+                    "a":"Personal digital assistant (PDA)",
+                    "b":"Internet connection",
+                    "c":"Web cam",
+                    "d":"Printer"
+                },
+                 {
+                    "q":"You want to send an email to two friends. You do not want the second friend to see the email-id of your first friend. Which field should you select to mark your first friend’s email id?",
+                    "a":"Cc",
+                    "b":"Bcc",
+                    "c":"To",
+                    "d":"Subject"
+                },
+                {
+                    "q":"Your father needs to travel frequently to conduct business meetings in various cities. You tell him that he can use video conferencing to attend and conduct the meetings without traveling. Your father wants to know more about video conferencing. Which of the following options will you identify as features of video conferencing?",
+                    "a":"Requires the participants to be in the same country",
+                    "b":"Allows participants to talk to each other. (Correct Answer)",
+                    "c":"Uses speech synthesis to transmit audio among participants.",
+                    "d":"Can be conducted by using a stand-alone computer."
+                },
+                {
+                    "q":"You want to view all the shared computers on the network. Which of the following options in the Start menu will you use?",
+                    "a":"Computer",
+                    "b":"Network",
+                    "c":"Connect To",
+                    "d":"Default Programs"
+                },
+                {
+                    "q":"Arnos uncle owns a small business with 20 office employees. The computers in his office are connected on a network. Arno often helps his uncle to install new computers on the network, add and remove individuals from the list of authorized users, and archive files on a computer. He likes to perform these activities and wants to make them the focus of his profession. Which of the following job opportunities can Arno consider?",
+                    "a":"Graphics designer",
+                    "b":"Software developer",
+                    "c":"Network administrator",
+                    "d":"Database administrator"
+                },
+                {
+                    "q":"Which of the following software enables real-time or near-real-time communication?",
+                    "a":"Focus ware",
+                    "b":"Collaborative",
+                    "c":"Cooperative",
+                    "d":"IMPS"
+                },
+                {
+                    "q":"Which of the following is a good example of an SMS service organized into a social network and blog?",
+                    "a":"Twitter",
+                    "b":"Facebook",
+                    "c":"Instagram",
+                    "d":"None of the mentioned"
+                },
+                {
+                    "q":"What is a HUB?",
+                    "a":"Software",
+                    "b":"Computing device",
+                    "c":"Network device",
+                    "d":"Calculating device"
+                },
+                {
+                    "q":"What does a set of rules define?",
+                    "a":"SMTP",
+                    "b":"FTP",
+                    "c":"IMAP",
+                    "d":"Protocol"
+                },
+                {
+                    "q":"What does TCP/IP stand for?",
+                    "a":"Telephone control protocol / Internet Protocol",
+                    "b":"Transmission control protocol/Internet protocol",
+                    "c":"Transmission control protocol/International protocol",
+                    "d":"None"
+                }
+            ]
+        },
+        {
+            "name":"SS2(Intermediate-class)",
+            "payload":[
+                {
+                    "q":"Which of the following is used to allocate and manage resources for a network?",
+                    "a":"Bluetooth",
+                    "b":"Server",
+                    "c":"Node",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"What does LAN stand for?",
+                    "a":"Local Array Network",
+                    "b":"Local Area Network",
+                    "c":"Local Area Net",
+                    "d":"None"
+                },
+                {
+                    "q":"Which type of topology is best suited for large businesses which must carefully control and coordinate the operation of distributed branch outlets?",
+                    "a":"Ring",
+                    "b":"Local area",
+                    "c":"Hierarchical",
+                    "d":"Star"
+                },
+                {
+                    "q":"A collection of hyperlinked documents on the internet forms the?",
+                    "a":"World Wide Web (WWW)",
+                    "b":"E-mail system",
+                    "c":"Mailing list",
+                    "d":"Hypertext markup language"
+                },
+                {
+                    "q":"The location of a resource on the internet is given by its?",
+                    "a":"Protocol",
+                    "b":"URL",
+                    "c":"E-mail address",
+                    "d":"ICQ"
+                },
+                {
+                    "q":"The term WAN stands for?",
+                    "a":"Wide Area Net",
+                    "b":"Wide Access Network",
+                    "c":"Wide Area Network",
+                    "d":"Wide Access Net"
+                },
+                {
+                    "q":"What sort of software would you use to look at web pages on the Internet?",
+                    "a":"Internet Service Provider",
+                    "b":"Web Browser",
+                    "c":"Presentation",
+                    "d":"Anti-virus"
+                },
+                {
+                    "q":"What would you use a search engine for?",
+                    "a":"To check for new emails",
+                    "b":"To search for files on a CD ROM",
+                    "c":"To connect to the Internet",
+                    "d":"To find web pages"
+                },
+                {
+                    "q":"Which of the following is not a way of communicating using the Internet?",
+                    "a":"Instant Messaging",
+                    "b":"Emailing",
+                    "c":"Chat Rooms",
+                    "d":"Phishing"
+                },
+                {
+                    "q":"What is the purpose of the refresh button in Internet Explorer?",
+                    "a":"Search for web pages",
+                    "b":"Remove your favourite websites",
+                    "c":"Display the home page",
+                    "d":"Reload the current page"
+                },
+                {
+                    "q":"A message can only be deemed effective when it is",
+                    "a":"repeated back as proof of understanding",
+                    "b":"communicated face-to-face",
+                    "c":"delivered with confidence",
+                    "d":"Understood by others and produces the intended results"
+                },
+                {
+                    "q":"When you share a file with others, you can share it only from:",
+                    "a":"File explorer",
+                    "b":"OneDrive",
+                    "c":"Word Online app",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"You can access OneDrive by using only:",
+                    "a":"A desktop",
+                    "b":"A laptop",
+                    "c":"ipad",
+                    "d":"all of the above"
+                },
+                {
+                    "q":"When creating a new contact group in Outlook, you can add members from:",
+                    "a":"Outlook contacts",
+                    "b":"The address book",
+                    "c":"A new email contact",
+                    "d":"All the above"
+                },
+                {
+                    "q":"What allows people to meet on the Internet and send or display graphics or other files?",
+                    "a":"Video conferencing",
+                    "b":"E-mail",
+                    "c":"Chat",
+                    "d":"None"
+                },
+                {
+                    "q":"Video conferencing requires a high-speed Internet connection.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                 {
+                    "q":"Which of the following career opportunities create newsletters, blogs and online magazines?",
+                    "a":"Desktop publisher",
+                    "b":"Transcriber",
+                    "c":"Technical writer",
+                    "d":"Network Administrator"
+                },
+                {
+                    "q":"Graphic Artists create animations for _______",
+                    "a":"video",
+                    "b":"games",
+                    "c":"movies",
+                    "d":"all of the above"
+                },
+                {
+                    "q":"Which IT professional is in charge of keeping information stored and organized?",
+                    "a":"Network administrator",
+                    "b":"Database administrator",
+                    "c":"Web administrator",
+                    "d":"Desktop Publisher"
+                },
+                {
+                    "q":"Which IT professional maintains and manage websites",
+                    "a":"Network administrator",
+                    "b":"Database administrator",
+                    "c":"Web administrator",
+                    "d":"Desktop Publisher"
+                },
+                {
+                    "q":"Which of the following is a website designer responsible for?",
+                    "a":"Tracking visitors",
+                    "b":"Coordinating website budget",
+                    "c":"All of the above",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Who is in charge of integrating all the different aspects of creating software?",
+                    "a":"Programmer",
+                    "b":"Software developer",
+                    "c":"Website designer",
+                    "d":"Game designer"
+                },
+                {
+                    "q":"_______ is a component that provides added functions by allowing the Web browser to access and execute files that are included in Web pages.",
+                    "a":"Add in",
+                    "b":"Plug in",
+                    "c":"Extension",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"A group of computers and associated devices that are connected to share resources and exchange information is called _______________",
+                    "a":"Website",
+                    "b":"Network",
+                    "c":"Internet",
+                    "d":"Intranet"
+                },
+                {
+                    "q":"WMA stand for ____________",
+                    "a":"Windows Mark Address",
+                    "b":"Windows media audio",
+                    "c":"Windows media address",
+                    "d":"None of the above"
+                }
+            ]
+        },
+        {
+            "name":"SS3(Advanced-class)",
+            "payload":[
+                {
+                    "q":"which of the following is not a component of network",
+                    "a":"A server",
+                    "b":"A workstation",
+                    "c":"Communication Channel",
+                    "d":"None"
+                },
+                {
+                    "q":"You can obtain an Internet connection from _______",
+                    "a":"Internet service provider",
+                    "b":"Network Provider",
+                    "c":"Email provider",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"Which of the following is the correct depiction of Digital Marketing?",
+                    "a":"Email Marketing",
+                    "b":"Social Media Marketing",
+                    "c":"Web Marketing",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"Which of the following is incorrect about digital marketing?",
+                    "a":"Digital marketing can only be done offline",
+                    "b":"Digital marketing cannot be done offline.",
+                    "c":"Digital marketing requires electronic devices for promoting goods and services",
+                    "d":"In general, digital marketing can be understood as online marketing, web marketing, and email marketing."
+                },
+                {
+                    "q":"What is considered while creating a front page of the website or homepage?",
+                    "a":"References of other websites",
+                    "b":"A brief elaboration about the company",
+                    "c":"Logos portraying the number of awards won by the web designer",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Micro-blogging can be defined as __________.",
+                    "a":"Mobile related blogs",
+                    "b":"Blogs posted by companies instead of an individual",
+                    "c":"Blogs encompassing limited individual posts, which are typically limited by character count.",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Name the features offered by LinkedIn for paid business accounts",
+                    "a":"Facilitate posting pictures",
+                    "b":"Facilitate to connect directly and send messages to people",
+                    "c":"Ability to post in Groups and create a Group",
+                    "d":"Ability to block users"
+                },
+                {
+                    "q":"In what ways can site traffic help in assessing the market value?",
+                    "a":"Overall site traffic can be followed, and a general idea of marketing's impact can be determined.",
+                    "b":"There is no association between the site traffic and marketing",
+                    "c":"Ads can send receivers to a specific landing page, which can be tracked",
+                    "d":"Product sales from the company website can be attributed directly to the marketing campaign"
+                },
+                {
+                    "q":"Which of the following is incorrect?",
+                    "a":"If you know about your target audience's intent, you can easily focus on creating valuable content.",
+                    "b":"You should compare the value of Content Marketing with that of other marketing strategies carried out by competitors.",
+                    "c":"Both (a) and (b) are true",
+                    "d":"Both (a) and (b) are false"
+                },
+                {
+                    "q":"Which of the following is the most common delivery channel in terms of mobile marketing?",
+                    "a":"Graphic",
+                    "b":"Text",
+                    "c":"Voice call",
+                    "d":"Search engine marketing"
+                },
+                {
+                    "q":"Where do we use keywords?",
+                    "a":"Tags",
+                    "b":"Title",
+                    "c":"Description",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"Data communication system within a building or campus is",
+                    "a":"MAN",
+                    "b":"LAN",
+                    "c":"WAN",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"Moving from one website to another is called ______________",
+                    "a":"Downloading",
+                    "b":"Browsing",
+                    "c":"Uploading",
+                    "d":"Attachment"
+                },
+                {
+                    "q":"In an instant messaging, you can share the following except___________",
+                    "a":"Pictures",
+                    "b":"Files",
+                    "c":"Text",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"VOIP stand for ___________________",
+                    "a":"Volume of Internet Provider",
+                    "b":"Volume of Intrant Protocol",
+                    "c":"Voice over the Internet protocol",
+                    "d":"Voice of Internet protocol"
+                },
+                {
+                    "q":"You can learn a new language using educational programs on your computer.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                 {
+                    "q":"Which of the following used computer in their workplace",
+                    "a":"Data entry Operator",
+                    "b":"Travel Agent",
+                    "c":"Graphics Designer",
+                    "d":"Information Officer"
+                },
+                {
+                    "q":"Who writes programs, diagnoses and fixes problems, designs, and organizes projects?",
+                    "a":"IT workers",
+                    "b":"Software developers",
+                    "c":"Bank clerks",
+                    "d":"Travel agents"
+                },
+                {
+                    "q":"Computer literacy opens up many new and exciting career opportunities.",
+                    "a":"True",
+                    "b":"False",
+                    "c":"",
+                    "d":""
+                },
+                {
+                    "q":"A special type of network used to communicate and share information within an organization is called ___________________",
+                    "a":"Internet",
+                    "b":"Network",
+                    "c":"Intranet",
+                    "d":"Extranet"
+                },
+                {
+                    "q":"____________Offers customers the ability to deploy and consume services using a highly scalable platform providing pay-as-you-go flexibility.",
+                    "a":"One drive",
+                    "b":"Public Cloud",
+                    "c":"Website",
+                    "d":"Storage"
+                },
+                {
+                    "q":"You can use the Internet to which of the following?",
+                    "a":"Transfer money to pay a bill",
+                    "b":"Video Chat with a friend in a different country",
+                    "c":"Listen to a new music album",
+                    "d":"All of the above"
+                },
+                {
+                    "q":"If you live in a remote area, what type of connection is most likely available to connect to the Internet?",
+                    "a":"Dial-Up",
+                    "b":"Dedicated",
+                    "c":"Wireless",
+                    "d":"LAN"
+                },
+                {
+                    "q":"Which of the following can you use to organize your email messages with the Windows 8 mail app?",
+                    "a":"Rolodex",
+                    "b":"Folders",
+                    "c":"Search",
+                    "d":"None of the above"
+                },
+                {
+                    "q":"What does the Windows 8 mail app provide you to mark emails as important?",
+                    "a":"Nothing",
+                    "b":"Folders",
+                    "c":"Flag",
+                    "d":"Search"
+                }
+            ]
+        }
+    ]
 }
 
 
