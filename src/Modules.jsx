@@ -11,7 +11,7 @@ import { useContext } from 'react';
 
 function Modules() {
     const [modules, setModules] = useState("Use Of computers and digital mobile devices")
-    const {setQuestions} = useContext(context)
+    const {questions,setQuestions} = useContext(context)
     const navigate = useNavigate()
     return (
         <Paper
@@ -62,7 +62,7 @@ function Modules() {
                         ))}
                     </Select>
                 </FormControl>
-                <Button onClick={()=>navigate("/question")} fullWidth variant="contained">Start</Button>
+                <Button disabled={questions.length > 0?false:true} onClick={()=>navigate("/question")} fullWidth variant="contained">Start</Button>
 
 
             </Grid>
